@@ -4,8 +4,6 @@
 This repository provides the full replication materials for the study:
 
 > **Do Not Review My Code Harshly: Identifying Counterproductive Behavior in Code Review Comments**  
-Fatemeh Shaterian, MohammadAmin Fazli, Jafar Habibi  
-Sharif University of Technology, Tehran, Iran  
 
 ---
 
@@ -282,8 +280,9 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run Full Pipeline
+Run Full Pipeline:
 
+```
 ## 1. Preprocess dataset
 python 3-Preprocessing/run_preprocessing.py
 
@@ -298,3 +297,5 @@ python 4-WordVectorization/train_word2vec.py
 
 ## 5. Train detection models
 python 5-Models/train_models.py
+
+```
