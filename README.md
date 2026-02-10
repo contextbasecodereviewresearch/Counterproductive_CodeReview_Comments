@@ -99,25 +99,6 @@ SD(t) = \sqrt{p_t(1-p_t)}
 ```
 ---
 
-## ✅ Inter-Rater Reliability (Raw Crowd Agreement)
-
-Before majority vote resolution, raw annotation consistency was measured using:
-
-### **Krippendorff’s α (nominal)**
-
-| Trait | Alpha | Agreement |
-|------|-------|-----------|
-| Lack of specificity | 0.59 | Moderate |
-| Discouragement | 0.54 | Moderate |
-| Mockery | 0.67 | Substantial |
-| Threats/intimidation | 0.69 | Substantial |
-| **Average across traits** | **0.55** | Moderate |
-
-This level is typical for subjective multi-label social annotation tasks.  
-Note: Reported Krippendorff’s α values are based on raw, unresolved crowd annotations. Because all disagreements were resolved via justification-based majority voting and author adjudication, these scores do not reflect the reliability of the final dataset.
-
----
-
 ### Inter-Rater Reliability (IRR) on Raw Crowd Annotations
 
 To evaluate initial crowd consistency (before majority vote and author adjudication), we computed **Krippendorff's alpha (nominal)** on the raw annotations from the first 2–3 annotators per comment, separately for each antisocial trait.
