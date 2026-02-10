@@ -1,0 +1,2791 @@
+comment_id,trait,annotator_1,annotator_2,annotator_3,majority_vote
+1,Lack of specification,0,0,,0
+2,Lack of specification,1,0,0.0,0
+3,Lack of specification,1,1,,1
+4,Lack of specification,0,0,,0
+5,Lack of specification,0,0,,0
+6,Lack of specification,0,0,,0
+7,Lack of specification,1,0,0.0,0
+8,Lack of specification,0,0,,0
+9,Lack of specification,0,0,,0
+10,Lack of specification,0,0,,0
+11,Lack of specification,0,0,,0
+12,Lack of specification,0,0,,0
+13,Lack of specification,1,1,,1
+14,Lack of specification,0,0,,0
+15,Lack of specification,0,0,,0
+16,Lack of specification,0,0,,0
+17,Lack of specification,0,0,,0
+18,Lack of specification,1,1,,1
+19,Lack of specification,0,0,,0
+20,Lack of specification,0,0,,0
+21,Lack of specification,0,0,,0
+22,Lack of specification,0,0,,0
+23,Lack of specification,0,0,,0
+24,Lack of specification,1,1,,1
+25,Lack of specification,1,1,,1
+26,Lack of specification,0,0,,0
+27,Lack of specification,0,0,,0
+28,Lack of specification,1,1,,1
+29,Lack of specification,0,0,,0
+30,Lack of specification,0,0,,0
+31,Lack of specification,0,0,,0
+32,Lack of specification,0,1,0.0,0
+33,Lack of specification,1,1,,1
+34,Lack of specification,0,0,,0
+35,Lack of specification,0,0,,0
+36,Lack of specification,1,1,,1
+37,Lack of specification,0,0,,0
+38,Lack of specification,1,1,,1
+39,Lack of specification,0,0,,0
+40,Lack of specification,1,1,,1
+41,Lack of specification,0,1,0.0,0
+42,Lack of specification,0,1,0.0,0
+43,Lack of specification,0,0,,0
+44,Lack of specification,0,0,,0
+45,Lack of specification,1,1,,1
+46,Lack of specification,0,0,,0
+47,Lack of specification,0,0,,0
+48,Lack of specification,0,0,,0
+49,Lack of specification,0,1,1.0,1
+50,Lack of specification,0,0,,0
+51,Lack of specification,0,0,,0
+52,Lack of specification,1,1,,1
+53,Lack of specification,1,0,1.0,1
+54,Lack of specification,1,0,0.0,0
+55,Lack of specification,1,1,,1
+56,Lack of specification,0,0,,0
+57,Lack of specification,0,0,,0
+58,Lack of specification,0,0,,0
+59,Lack of specification,0,0,,0
+60,Lack of specification,0,0,,0
+61,Lack of specification,0,0,,0
+62,Lack of specification,0,0,,0
+63,Lack of specification,0,0,,0
+64,Lack of specification,0,0,,0
+65,Lack of specification,1,1,,1
+66,Lack of specification,1,1,,1
+67,Lack of specification,1,1,,1
+68,Lack of specification,0,0,,0
+69,Lack of specification,1,1,,1
+70,Lack of specification,0,0,,0
+71,Lack of specification,0,0,,0
+72,Lack of specification,1,1,,1
+73,Lack of specification,0,0,,0
+74,Lack of specification,0,0,,0
+75,Lack of specification,0,0,,0
+76,Lack of specification,0,0,,0
+77,Lack of specification,0,0,,0
+78,Lack of specification,0,0,,0
+79,Lack of specification,0,0,,0
+80,Lack of specification,1,1,,1
+81,Lack of specification,0,0,,0
+82,Lack of specification,1,1,,1
+83,Lack of specification,1,1,,1
+84,Lack of specification,1,1,,1
+85,Lack of specification,1,1,,1
+86,Lack of specification,0,0,,0
+87,Lack of specification,1,1,,1
+88,Lack of specification,0,0,,0
+89,Lack of specification,1,1,,1
+90,Lack of specification,1,1,,1
+91,Lack of specification,1,1,,1
+92,Lack of specification,0,0,,0
+93,Lack of specification,0,1,1.0,1
+94,Lack of specification,0,0,,0
+95,Lack of specification,0,0,,0
+96,Lack of specification,0,1,0.0,0
+97,Lack of specification,1,1,,1
+98,Lack of specification,1,1,,1
+99,Lack of specification,0,0,,0
+100,Lack of specification,0,0,,0
+101,Lack of specification,0,0,,0
+102,Lack of specification,1,1,,1
+103,Lack of specification,0,0,,0
+104,Lack of specification,0,0,,0
+105,Lack of specification,0,0,,0
+106,Lack of specification,0,1,0.0,0
+107,Lack of specification,0,0,,0
+108,Lack of specification,1,1,,1
+109,Lack of specification,0,0,,0
+110,Lack of specification,0,0,,0
+111,Lack of specification,1,1,,1
+112,Lack of specification,0,0,,0
+113,Lack of specification,0,0,,0
+114,Lack of specification,1,1,,1
+115,Lack of specification,0,0,,0
+116,Lack of specification,1,1,,1
+117,Lack of specification,0,0,,0
+118,Lack of specification,0,0,,0
+119,Lack of specification,1,1,,1
+120,Lack of specification,1,1,,1
+121,Lack of specification,1,1,,1
+122,Lack of specification,1,1,,1
+123,Lack of specification,1,1,,1
+124,Lack of specification,1,0,1.0,1
+125,Lack of specification,0,0,,0
+126,Lack of specification,1,1,,1
+127,Lack of specification,0,0,,0
+128,Lack of specification,1,1,,1
+129,Lack of specification,0,0,,0
+130,Lack of specification,0,0,,0
+131,Lack of specification,1,1,,1
+132,Lack of specification,1,1,,1
+133,Lack of specification,0,0,,0
+134,Lack of specification,0,0,,0
+135,Lack of specification,0,0,,0
+136,Lack of specification,0,0,,0
+137,Lack of specification,0,0,,0
+138,Lack of specification,0,0,,0
+139,Lack of specification,0,0,,0
+140,Lack of specification,0,0,,0
+141,Lack of specification,0,0,,0
+142,Lack of specification,0,0,,0
+143,Lack of specification,1,1,,1
+144,Lack of specification,0,0,,0
+145,Lack of specification,1,1,,1
+146,Lack of specification,1,1,,1
+147,Lack of specification,1,1,,1
+148,Lack of specification,0,0,,0
+149,Lack of specification,1,1,,1
+150,Lack of specification,0,0,,0
+151,Lack of specification,0,0,,0
+152,Lack of specification,0,0,,0
+153,Lack of specification,0,0,,0
+154,Lack of specification,0,0,,0
+155,Lack of specification,0,0,,0
+156,Lack of specification,0,0,,0
+157,Lack of specification,0,0,,0
+158,Lack of specification,1,1,,1
+159,Lack of specification,0,0,,0
+160,Lack of specification,0,0,,0
+161,Lack of specification,1,1,,1
+162,Lack of specification,1,1,,1
+163,Lack of specification,0,0,,0
+164,Lack of specification,0,0,,0
+165,Lack of specification,1,1,,1
+166,Lack of specification,0,0,,0
+167,Lack of specification,1,1,,1
+168,Lack of specification,0,0,,0
+169,Lack of specification,0,0,,0
+170,Lack of specification,0,0,,0
+171,Lack of specification,0,0,,0
+172,Lack of specification,0,0,,0
+173,Lack of specification,1,1,,1
+174,Lack of specification,0,0,,0
+175,Lack of specification,0,0,,0
+176,Lack of specification,0,0,,0
+177,Lack of specification,0,0,,0
+178,Lack of specification,0,0,,0
+179,Lack of specification,0,0,,0
+180,Lack of specification,0,0,,0
+181,Lack of specification,1,1,,1
+182,Lack of specification,1,0,1.0,1
+183,Lack of specification,1,1,,1
+184,Lack of specification,0,0,,0
+185,Lack of specification,0,1,0.0,0
+186,Lack of specification,0,0,,0
+187,Lack of specification,0,1,1.0,1
+188,Lack of specification,0,0,,0
+189,Lack of specification,1,1,,1
+190,Lack of specification,0,0,,0
+191,Lack of specification,1,1,,1
+192,Lack of specification,0,0,,0
+193,Lack of specification,0,0,,0
+194,Lack of specification,0,0,,0
+195,Lack of specification,0,0,,0
+196,Lack of specification,0,0,,0
+197,Lack of specification,0,0,,0
+198,Lack of specification,0,0,,0
+199,Lack of specification,1,1,,1
+200,Lack of specification,0,0,,0
+201,Lack of specification,1,1,,1
+202,Lack of specification,1,1,,1
+203,Lack of specification,0,0,,0
+204,Lack of specification,0,0,,0
+205,Lack of specification,0,0,,0
+206,Lack of specification,0,0,,0
+207,Lack of specification,0,0,,0
+208,Lack of specification,1,1,,1
+209,Lack of specification,0,0,,0
+210,Lack of specification,1,1,,1
+211,Lack of specification,0,0,,0
+212,Lack of specification,0,0,,0
+213,Lack of specification,0,0,,0
+214,Lack of specification,0,0,,0
+215,Lack of specification,1,1,,1
+216,Lack of specification,0,0,,0
+217,Lack of specification,1,1,,1
+218,Lack of specification,0,0,,0
+219,Lack of specification,1,0,1.0,1
+220,Lack of specification,1,0,0.0,0
+221,Lack of specification,0,0,,0
+222,Lack of specification,1,1,,1
+223,Lack of specification,1,1,,1
+224,Lack of specification,1,1,,1
+225,Lack of specification,0,0,,0
+226,Lack of specification,0,0,,0
+227,Lack of specification,0,0,,0
+228,Lack of specification,1,1,,1
+229,Lack of specification,0,0,,0
+230,Lack of specification,0,0,,0
+231,Lack of specification,1,1,,1
+232,Lack of specification,0,0,,0
+233,Lack of specification,1,1,,1
+234,Lack of specification,0,0,,0
+235,Lack of specification,0,0,,0
+236,Lack of specification,0,1,0.0,0
+237,Lack of specification,0,0,,0
+238,Lack of specification,0,0,,0
+239,Lack of specification,0,0,,0
+240,Lack of specification,0,1,1.0,1
+241,Lack of specification,1,1,,1
+242,Lack of specification,1,1,,1
+243,Lack of specification,0,0,,0
+244,Lack of specification,0,0,,0
+245,Lack of specification,1,1,,1
+246,Lack of specification,0,0,,0
+247,Lack of specification,0,0,,0
+248,Lack of specification,0,1,0.0,0
+249,Lack of specification,0,0,,0
+250,Lack of specification,0,0,,0
+251,Lack of specification,0,0,,0
+252,Lack of specification,0,0,,0
+253,Lack of specification,0,0,,0
+254,Lack of specification,0,0,,0
+255,Lack of specification,0,0,,0
+256,Lack of specification,0,0,,0
+257,Lack of specification,0,0,,0
+258,Lack of specification,1,1,,1
+259,Lack of specification,1,1,,1
+260,Lack of specification,0,0,,0
+261,Lack of specification,1,1,,1
+262,Lack of specification,1,1,,1
+263,Lack of specification,0,0,,0
+264,Lack of specification,0,0,,0
+265,Lack of specification,1,1,,1
+266,Lack of specification,1,1,,1
+267,Lack of specification,1,1,,1
+268,Lack of specification,0,0,,0
+269,Lack of specification,0,1,0.0,0
+270,Lack of specification,1,1,,1
+271,Lack of specification,0,0,,0
+272,Lack of specification,1,1,,1
+273,Lack of specification,0,0,,0
+274,Lack of specification,0,0,,0
+275,Lack of specification,0,0,,0
+276,Lack of specification,0,0,,0
+277,Lack of specification,1,1,,1
+278,Lack of specification,0,0,,0
+279,Lack of specification,0,0,,0
+280,Lack of specification,0,0,,0
+281,Lack of specification,0,0,,0
+282,Lack of specification,0,0,,0
+283,Lack of specification,0,0,,0
+284,Lack of specification,1,1,,1
+285,Lack of specification,0,0,,0
+286,Lack of specification,0,0,,0
+287,Lack of specification,0,0,,0
+288,Lack of specification,0,0,,0
+289,Lack of specification,0,0,,0
+290,Lack of specification,0,0,,0
+291,Lack of specification,0,0,,0
+292,Lack of specification,1,1,,1
+293,Lack of specification,0,0,,0
+294,Lack of specification,1,1,,1
+295,Lack of specification,1,0,0.0,0
+296,Lack of specification,0,0,,0
+297,Lack of specification,0,0,,0
+298,Lack of specification,1,1,,1
+299,Lack of specification,1,1,,1
+300,Lack of specification,1,1,,1
+301,Lack of specification,0,0,,0
+302,Lack of specification,1,1,,1
+303,Lack of specification,1,1,,1
+304,Lack of specification,0,0,,0
+305,Lack of specification,0,0,,0
+306,Lack of specification,0,0,,0
+307,Lack of specification,0,0,,0
+308,Lack of specification,0,0,,0
+309,Lack of specification,0,0,,0
+310,Lack of specification,0,0,,0
+1,Discouragement without guidance,1,1,,1
+2,Discouragement without guidance,0,0,,0
+3,Discouragement without guidance,0,0,,0
+4,Discouragement without guidance,1,1,,1
+5,Discouragement without guidance,0,0,,0
+6,Discouragement without guidance,0,0,,0
+7,Discouragement without guidance,1,0,0.0,0
+8,Discouragement without guidance,0,0,,0
+9,Discouragement without guidance,0,0,,0
+10,Discouragement without guidance,0,0,,0
+11,Discouragement without guidance,0,0,,0
+12,Discouragement without guidance,0,0,,0
+13,Discouragement without guidance,0,0,,0
+14,Discouragement without guidance,1,1,,1
+15,Discouragement without guidance,0,0,,0
+16,Discouragement without guidance,0,0,,0
+17,Discouragement without guidance,1,1,,1
+18,Discouragement without guidance,0,0,,0
+19,Discouragement without guidance,0,0,,0
+20,Discouragement without guidance,0,0,,0
+21,Discouragement without guidance,0,0,,0
+22,Discouragement without guidance,0,0,,0
+23,Discouragement without guidance,1,1,,1
+24,Discouragement without guidance,0,0,,0
+25,Discouragement without guidance,0,0,,0
+26,Discouragement without guidance,1,1,,1
+27,Discouragement without guidance,1,1,,1
+28,Discouragement without guidance,1,1,,1
+29,Discouragement without guidance,0,0,,0
+30,Discouragement without guidance,1,1,,1
+31,Discouragement without guidance,0,1,0.0,0
+32,Discouragement without guidance,0,0,,0
+33,Discouragement without guidance,0,0,,0
+34,Discouragement without guidance,0,0,,0
+35,Discouragement without guidance,0,0,,0
+36,Discouragement without guidance,0,0,,0
+37,Discouragement without guidance,0,0,,0
+38,Discouragement without guidance,0,0,,0
+39,Discouragement without guidance,0,0,,0
+40,Discouragement without guidance,0,0,,0
+41,Discouragement without guidance,0,0,,0
+42,Discouragement without guidance,0,0,,0
+43,Discouragement without guidance,0,0,,0
+44,Discouragement without guidance,0,0,,0
+45,Discouragement without guidance,0,0,,0
+46,Discouragement without guidance,1,1,,1
+47,Discouragement without guidance,0,0,,0
+48,Discouragement without guidance,0,0,,0
+49,Discouragement without guidance,0,0,,0
+50,Discouragement without guidance,0,0,,0
+51,Discouragement without guidance,0,0,,0
+52,Discouragement without guidance,0,0,,0
+53,Discouragement without guidance,0,0,,0
+54,Discouragement without guidance,0,0,,0
+55,Discouragement without guidance,0,0,,0
+56,Discouragement without guidance,0,0,,0
+57,Discouragement without guidance,0,0,,0
+58,Discouragement without guidance,0,1,1.0,1
+59,Discouragement without guidance,0,0,,0
+60,Discouragement without guidance,0,0,,0
+61,Discouragement without guidance,0,0,,0
+62,Discouragement without guidance,0,0,,0
+63,Discouragement without guidance,1,1,,1
+64,Discouragement without guidance,0,0,,0
+65,Discouragement without guidance,0,0,,0
+66,Discouragement without guidance,0,0,,0
+67,Discouragement without guidance,1,1,,1
+68,Discouragement without guidance,0,0,,0
+69,Discouragement without guidance,0,0,,0
+70,Discouragement without guidance,0,0,,0
+71,Discouragement without guidance,0,0,,0
+72,Discouragement without guidance,1,0,0.0,0
+73,Discouragement without guidance,0,0,,0
+74,Discouragement without guidance,0,0,,0
+75,Discouragement without guidance,0,0,,0
+76,Discouragement without guidance,0,0,,0
+77,Discouragement without guidance,1,1,,1
+78,Discouragement without guidance,1,0,0.0,0
+79,Discouragement without guidance,1,1,,1
+80,Discouragement without guidance,0,1,1.0,1
+81,Discouragement without guidance,0,0,,0
+82,Discouragement without guidance,1,0,1.0,1
+83,Discouragement without guidance,0,0,,0
+84,Discouragement without guidance,0,0,,0
+85,Discouragement without guidance,0,0,,0
+86,Discouragement without guidance,0,0,,0
+87,Discouragement without guidance,0,0,,0
+88,Discouragement without guidance,0,0,,0
+89,Discouragement without guidance,1,1,,1
+90,Discouragement without guidance,0,0,,0
+91,Discouragement without guidance,0,0,,0
+92,Discouragement without guidance,0,0,,0
+93,Discouragement without guidance,0,0,,0
+94,Discouragement without guidance,1,1,,1
+95,Discouragement without guidance,1,1,,1
+96,Discouragement without guidance,1,1,,1
+97,Discouragement without guidance,0,0,,0
+98,Discouragement without guidance,0,0,,0
+99,Discouragement without guidance,0,0,,0
+100,Discouragement without guidance,0,0,,0
+101,Discouragement without guidance,0,0,,0
+102,Discouragement without guidance,0,0,,0
+103,Discouragement without guidance,1,1,,1
+104,Discouragement without guidance,1,0,0.0,0
+105,Discouragement without guidance,0,0,,0
+106,Discouragement without guidance,0,0,,0
+107,Discouragement without guidance,0,0,,0
+108,Discouragement without guidance,0,0,,0
+109,Discouragement without guidance,0,0,,0
+110,Discouragement without guidance,0,0,,0
+111,Discouragement without guidance,0,0,,0
+112,Discouragement without guidance,1,1,,1
+113,Discouragement without guidance,0,0,,0
+114,Discouragement without guidance,1,1,,1
+115,Discouragement without guidance,0,0,,0
+116,Discouragement without guidance,0,0,,0
+117,Discouragement without guidance,0,0,,0
+118,Discouragement without guidance,0,0,,0
+119,Discouragement without guidance,1,0,0.0,0
+120,Discouragement without guidance,0,0,,0
+121,Discouragement without guidance,0,0,,0
+122,Discouragement without guidance,0,0,,0
+123,Discouragement without guidance,1,1,,1
+124,Discouragement without guidance,0,0,,0
+125,Discouragement without guidance,0,0,,0
+126,Discouragement without guidance,1,1,,1
+127,Discouragement without guidance,0,0,,0
+128,Discouragement without guidance,0,1,0.0,0
+129,Discouragement without guidance,0,0,,0
+130,Discouragement without guidance,0,0,,0
+131,Discouragement without guidance,0,0,,0
+132,Discouragement without guidance,0,0,,0
+133,Discouragement without guidance,0,0,,0
+134,Discouragement without guidance,0,0,,0
+135,Discouragement without guidance,0,0,,0
+136,Discouragement without guidance,0,0,,0
+137,Discouragement without guidance,0,0,,0
+138,Discouragement without guidance,1,1,,1
+139,Discouragement without guidance,0,0,,0
+140,Discouragement without guidance,0,0,,0
+141,Discouragement without guidance,0,1,0.0,0
+142,Discouragement without guidance,0,0,,0
+143,Discouragement without guidance,0,0,,0
+144,Discouragement without guidance,0,0,,0
+145,Discouragement without guidance,0,0,,0
+146,Discouragement without guidance,1,1,,1
+147,Discouragement without guidance,1,1,,1
+148,Discouragement without guidance,0,0,,0
+149,Discouragement without guidance,1,1,,1
+150,Discouragement without guidance,0,0,,0
+151,Discouragement without guidance,0,0,,0
+152,Discouragement without guidance,0,0,,0
+153,Discouragement without guidance,0,0,,0
+154,Discouragement without guidance,0,0,,0
+155,Discouragement without guidance,0,0,,0
+156,Discouragement without guidance,0,0,,0
+157,Discouragement without guidance,0,0,,0
+158,Discouragement without guidance,0,0,,0
+159,Discouragement without guidance,0,0,,0
+160,Discouragement without guidance,1,1,,1
+161,Discouragement without guidance,0,0,,0
+162,Discouragement without guidance,0,0,,0
+163,Discouragement without guidance,0,0,,0
+164,Discouragement without guidance,0,0,,0
+165,Discouragement without guidance,0,0,,0
+166,Discouragement without guidance,0,0,,0
+167,Discouragement without guidance,0,0,,0
+168,Discouragement without guidance,0,0,,0
+169,Discouragement without guidance,0,0,,0
+170,Discouragement without guidance,0,1,0.0,0
+171,Discouragement without guidance,1,0,0.0,0
+172,Discouragement without guidance,0,0,,0
+173,Discouragement without guidance,0,0,,0
+174,Discouragement without guidance,1,1,,1
+175,Discouragement without guidance,1,1,,1
+176,Discouragement without guidance,0,0,,0
+177,Discouragement without guidance,0,0,,0
+178,Discouragement without guidance,1,1,,1
+179,Discouragement without guidance,0,0,,0
+180,Discouragement without guidance,0,0,,0
+181,Discouragement without guidance,0,0,,0
+182,Discouragement without guidance,0,0,,0
+183,Discouragement without guidance,0,0,,0
+184,Discouragement without guidance,1,1,,1
+185,Discouragement without guidance,0,0,,0
+186,Discouragement without guidance,0,0,,0
+187,Discouragement without guidance,0,0,,0
+188,Discouragement without guidance,0,0,,0
+189,Discouragement without guidance,0,0,,0
+190,Discouragement without guidance,0,0,,0
+191,Discouragement without guidance,0,0,,0
+192,Discouragement without guidance,0,0,,0
+193,Discouragement without guidance,0,0,,0
+194,Discouragement without guidance,0,1,0.0,0
+195,Discouragement without guidance,1,1,,1
+196,Discouragement without guidance,0,0,,0
+197,Discouragement without guidance,1,1,,1
+198,Discouragement without guidance,0,0,,0
+199,Discouragement without guidance,0,0,,0
+200,Discouragement without guidance,0,0,,0
+201,Discouragement without guidance,0,1,1.0,1
+202,Discouragement without guidance,0,0,,0
+203,Discouragement without guidance,0,0,,0
+204,Discouragement without guidance,0,0,,0
+205,Discouragement without guidance,0,0,,0
+206,Discouragement without guidance,0,0,,0
+207,Discouragement without guidance,0,0,,0
+208,Discouragement without guidance,0,0,,0
+209,Discouragement without guidance,0,0,,0
+210,Discouragement without guidance,0,0,,0
+211,Discouragement without guidance,0,1,0.0,0
+212,Discouragement without guidance,0,0,,0
+213,Discouragement without guidance,1,0,1.0,1
+214,Discouragement without guidance,0,0,,0
+215,Discouragement without guidance,0,0,,0
+216,Discouragement without guidance,1,1,,1
+217,Discouragement without guidance,0,0,,0
+218,Discouragement without guidance,0,0,,0
+219,Discouragement without guidance,0,0,,0
+220,Discouragement without guidance,0,0,,0
+221,Discouragement without guidance,0,0,,0
+222,Discouragement without guidance,0,0,,0
+223,Discouragement without guidance,1,1,,1
+224,Discouragement without guidance,0,0,,0
+225,Discouragement without guidance,0,0,,0
+226,Discouragement without guidance,0,0,,0
+227,Discouragement without guidance,1,1,,1
+228,Discouragement without guidance,0,0,,0
+229,Discouragement without guidance,0,0,,0
+230,Discouragement without guidance,0,0,,0
+231,Discouragement without guidance,1,1,,1
+232,Discouragement without guidance,0,0,,0
+233,Discouragement without guidance,0,0,,0
+234,Discouragement without guidance,0,0,,0
+235,Discouragement without guidance,0,0,,0
+236,Discouragement without guidance,0,0,,0
+237,Discouragement without guidance,1,1,,1
+238,Discouragement without guidance,0,0,,0
+239,Discouragement without guidance,0,0,,0
+240,Discouragement without guidance,1,1,,1
+241,Discouragement without guidance,1,1,,1
+242,Discouragement without guidance,0,0,,0
+243,Discouragement without guidance,0,0,,0
+244,Discouragement without guidance,1,1,,1
+245,Discouragement without guidance,0,0,,0
+246,Discouragement without guidance,0,0,,0
+247,Discouragement without guidance,0,0,,0
+248,Discouragement without guidance,1,1,,1
+249,Discouragement without guidance,1,1,,1
+250,Discouragement without guidance,0,0,,0
+251,Discouragement without guidance,0,0,,0
+252,Discouragement without guidance,0,0,,0
+253,Discouragement without guidance,0,0,,0
+254,Discouragement without guidance,0,0,,0
+255,Discouragement without guidance,0,0,,0
+256,Discouragement without guidance,1,1,,1
+257,Discouragement without guidance,0,0,,0
+258,Discouragement without guidance,0,0,,0
+259,Discouragement without guidance,0,0,,0
+260,Discouragement without guidance,1,1,,1
+261,Discouragement without guidance,1,0,0.0,0
+262,Discouragement without guidance,1,1,,1
+263,Discouragement without guidance,0,0,,0
+264,Discouragement without guidance,0,0,,0
+265,Discouragement without guidance,0,0,,0
+266,Discouragement without guidance,0,0,,0
+267,Discouragement without guidance,0,1,0.0,0
+268,Discouragement without guidance,1,1,,1
+269,Discouragement without guidance,1,1,,1
+270,Discouragement without guidance,1,0,1.0,1
+271,Discouragement without guidance,0,0,,0
+272,Discouragement without guidance,1,0,0.0,0
+273,Discouragement without guidance,0,0,,0
+274,Discouragement without guidance,1,1,,1
+275,Discouragement without guidance,1,0,0.0,0
+276,Discouragement without guidance,0,0,,0
+277,Discouragement without guidance,0,0,,0
+278,Discouragement without guidance,0,0,,0
+279,Discouragement without guidance,0,1,0.0,0
+280,Discouragement without guidance,0,1,1.0,1
+281,Discouragement without guidance,0,0,,0
+282,Discouragement without guidance,0,0,,0
+283,Discouragement without guidance,0,0,,0
+284,Discouragement without guidance,0,0,,0
+285,Discouragement without guidance,0,0,,0
+286,Discouragement without guidance,0,0,,0
+287,Discouragement without guidance,0,0,,0
+288,Discouragement without guidance,0,0,,0
+289,Discouragement without guidance,0,0,,0
+290,Discouragement without guidance,0,0,,0
+291,Discouragement without guidance,0,1,0.0,0
+292,Discouragement without guidance,1,1,,1
+293,Discouragement without guidance,0,0,,0
+294,Discouragement without guidance,0,0,,0
+295,Discouragement without guidance,0,0,,0
+296,Discouragement without guidance,1,0,0.0,0
+297,Discouragement without guidance,1,1,,1
+298,Discouragement without guidance,1,1,,1
+299,Discouragement without guidance,0,0,,0
+300,Discouragement without guidance,1,1,,1
+301,Discouragement without guidance,0,0,,0
+302,Discouragement without guidance,1,0,1.0,1
+303,Discouragement without guidance,1,1,,1
+304,Discouragement without guidance,1,1,,1
+305,Discouragement without guidance,1,1,,1
+306,Discouragement without guidance,0,0,,0
+307,Discouragement without guidance,1,1,,1
+308,Discouragement without guidance,0,0,,0
+309,Discouragement without guidance,1,0,0.0,0
+310,Discouragement without guidance,0,0,,0
+1,Mockery,1,0,0.0,0
+2,Mockery,1,1,,1
+3,Mockery,0,0,,0
+4,Mockery,0,0,,0
+5,Mockery,0,0,,0
+6,Mockery,0,0,,0
+7,Mockery,0,0,,0
+8,Mockery,1,1,,1
+9,Mockery,1,1,,1
+10,Mockery,0,0,,0
+11,Mockery,0,0,,0
+12,Mockery,1,0,0.0,0
+13,Mockery,0,0,,0
+14,Mockery,0,0,,0
+15,Mockery,0,0,,0
+16,Mockery,0,0,,0
+17,Mockery,0,0,,0
+18,Mockery,0,0,,0
+19,Mockery,0,0,,0
+20,Mockery,0,0,,0
+21,Mockery,1,1,,1
+22,Mockery,0,0,,0
+23,Mockery,1,1,,1
+24,Mockery,0,0,,0
+25,Mockery,0,0,,0
+26,Mockery,0,0,,0
+27,Mockery,0,0,,0
+28,Mockery,0,0,,0
+29,Mockery,0,0,,0
+30,Mockery,0,0,,0
+31,Mockery,0,0,,0
+32,Mockery,0,0,,0
+33,Mockery,0,0,,0
+34,Mockery,0,0,,0
+35,Mockery,0,0,,0
+36,Mockery,0,0,,0
+37,Mockery,0,0,,0
+38,Mockery,0,0,,0
+39,Mockery,0,0,,0
+40,Mockery,0,0,,0
+41,Mockery,0,0,,0
+42,Mockery,0,0,,0
+43,Mockery,0,0,,0
+44,Mockery,0,0,,0
+45,Mockery,0,0,,0
+46,Mockery,0,0,,0
+47,Mockery,0,0,,0
+48,Mockery,1,1,,1
+49,Mockery,0,1,1.0,1
+50,Mockery,1,1,,1
+51,Mockery,0,0,,0
+52,Mockery,0,0,,0
+53,Mockery,0,0,,0
+54,Mockery,0,0,,0
+55,Mockery,0,1,1.0,1
+56,Mockery,0,0,,0
+57,Mockery,0,0,,0
+58,Mockery,0,0,,0
+59,Mockery,0,0,,0
+60,Mockery,0,0,,0
+61,Mockery,1,1,,1
+62,Mockery,1,0,0.0,0
+63,Mockery,1,1,,1
+64,Mockery,0,0,,0
+65,Mockery,0,0,,0
+66,Mockery,0,0,,0
+67,Mockery,0,0,,0
+68,Mockery,0,0,,0
+69,Mockery,1,1,,1
+70,Mockery,0,0,,0
+71,Mockery,0,0,,0
+72,Mockery,0,0,,0
+73,Mockery,0,0,,0
+74,Mockery,0,0,,0
+75,Mockery,0,0,,0
+76,Mockery,0,0,,0
+77,Mockery,1,1,,1
+78,Mockery,0,0,,0
+79,Mockery,0,0,,0
+80,Mockery,0,0,,0
+81,Mockery,0,0,,0
+82,Mockery,0,0,,0
+83,Mockery,1,1,,1
+84,Mockery,0,0,,0
+85,Mockery,1,1,,1
+86,Mockery,1,0,0.0,0
+87,Mockery,0,0,,0
+88,Mockery,0,0,,0
+89,Mockery,0,0,,0
+90,Mockery,0,0,,0
+91,Mockery,0,0,,0
+92,Mockery,0,0,,0
+93,Mockery,0,0,,0
+94,Mockery,0,0,,0
+95,Mockery,0,0,,0
+96,Mockery,0,0,,0
+97,Mockery,0,0,,0
+98,Mockery,0,0,,0
+99,Mockery,0,1,0.0,0
+100,Mockery,0,0,,0
+101,Mockery,1,1,,1
+102,Mockery,0,0,,0
+103,Mockery,0,0,,0
+104,Mockery,0,0,,0
+105,Mockery,0,0,,0
+106,Mockery,0,0,,0
+107,Mockery,1,0,0.0,0
+108,Mockery,0,0,,0
+109,Mockery,0,0,,0
+110,Mockery,0,0,,0
+111,Mockery,0,0,,0
+112,Mockery,0,0,,0
+113,Mockery,1,1,,1
+114,Mockery,1,1,,1
+115,Mockery,0,0,,0
+116,Mockery,0,0,,0
+117,Mockery,1,1,,1
+118,Mockery,0,0,,0
+119,Mockery,0,0,,0
+120,Mockery,1,1,,1
+121,Mockery,0,0,,0
+122,Mockery,0,0,,0
+123,Mockery,0,0,,0
+124,Mockery,0,0,,0
+125,Mockery,0,0,,0
+126,Mockery,0,0,,0
+127,Mockery,0,0,,0
+128,Mockery,0,0,,0
+129,Mockery,0,0,,0
+130,Mockery,0,0,,0
+131,Mockery,1,0,0.0,0
+132,Mockery,0,0,,0
+133,Mockery,0,0,,0
+134,Mockery,1,1,,1
+135,Mockery,0,0,,0
+136,Mockery,1,0,1.0,1
+137,Mockery,0,1,0.0,0
+138,Mockery,0,0,,0
+139,Mockery,0,0,,0
+140,Mockery,0,0,,0
+141,Mockery,0,0,,0
+142,Mockery,0,0,,0
+143,Mockery,0,0,,0
+144,Mockery,0,0,,0
+145,Mockery,0,0,,0
+146,Mockery,0,1,0.0,0
+147,Mockery,0,0,,0
+148,Mockery,0,0,,0
+149,Mockery,0,0,,0
+150,Mockery,0,0,,0
+151,Mockery,0,0,,0
+152,Mockery,0,0,,0
+153,Mockery,0,0,,0
+154,Mockery,0,0,,0
+155,Mockery,0,0,,0
+156,Mockery,0,0,,0
+157,Mockery,0,0,,0
+158,Mockery,0,0,,0
+159,Mockery,0,0,,0
+160,Mockery,0,0,,0
+161,Mockery,0,0,,0
+162,Mockery,0,0,,0
+163,Mockery,0,0,,0
+164,Mockery,0,0,,0
+165,Mockery,0,0,,0
+166,Mockery,0,0,,0
+167,Mockery,0,0,,0
+168,Mockery,0,0,,0
+169,Mockery,0,0,,0
+170,Mockery,0,0,,0
+171,Mockery,0,0,,0
+172,Mockery,0,0,,0
+173,Mockery,0,0,,0
+174,Mockery,1,1,,1
+175,Mockery,0,0,,0
+176,Mockery,1,1,,1
+177,Mockery,0,0,,0
+178,Mockery,0,0,,0
+179,Mockery,0,0,,0
+180,Mockery,0,0,,0
+181,Mockery,0,0,,0
+182,Mockery,0,0,,0
+183,Mockery,1,1,,1
+184,Mockery,1,1,,1
+185,Mockery,1,1,,1
+186,Mockery,0,0,,0
+187,Mockery,0,0,,0
+188,Mockery,0,1,1.0,1
+189,Mockery,0,0,,0
+190,Mockery,1,1,,1
+191,Mockery,0,0,,0
+192,Mockery,0,0,,0
+193,Mockery,0,0,,0
+194,Mockery,0,0,,0
+195,Mockery,0,0,,0
+196,Mockery,1,0,0.0,0
+197,Mockery,0,0,,0
+198,Mockery,0,0,,0
+199,Mockery,1,1,,1
+200,Mockery,0,0,,0
+201,Mockery,0,0,,0
+202,Mockery,0,0,,0
+203,Mockery,0,0,,0
+204,Mockery,0,0,,0
+205,Mockery,1,1,,1
+206,Mockery,0,0,,0
+207,Mockery,1,1,,1
+208,Mockery,0,0,,0
+209,Mockery,0,0,,0
+210,Mockery,0,0,,0
+211,Mockery,0,0,,0
+212,Mockery,1,1,,1
+213,Mockery,0,0,,0
+214,Mockery,0,0,,0
+215,Mockery,1,1,,1
+216,Mockery,0,0,,0
+217,Mockery,0,1,0.0,0
+218,Mockery,0,1,0.0,0
+219,Mockery,0,0,,0
+220,Mockery,0,0,,0
+221,Mockery,0,0,,0
+222,Mockery,0,0,,0
+223,Mockery,0,0,,0
+224,Mockery,0,0,,0
+225,Mockery,0,0,,0
+226,Mockery,0,1,0.0,0
+227,Mockery,0,0,,0
+228,Mockery,0,0,,0
+229,Mockery,0,0,,0
+230,Mockery,0,0,,0
+231,Mockery,0,0,,0
+232,Mockery,0,0,,0
+233,Mockery,0,0,,0
+234,Mockery,0,0,,0
+235,Mockery,0,0,,0
+236,Mockery,0,0,,0
+237,Mockery,0,0,,0
+238,Mockery,0,0,,0
+239,Mockery,0,0,,0
+240,Mockery,0,0,,0
+241,Mockery,0,0,,0
+242,Mockery,0,0,,0
+243,Mockery,0,0,,0
+244,Mockery,0,0,,0
+245,Mockery,0,0,,0
+246,Mockery,0,0,,0
+247,Mockery,1,1,,1
+248,Mockery,0,0,,0
+249,Mockery,0,0,,0
+250,Mockery,0,0,,0
+251,Mockery,0,0,,0
+252,Mockery,0,0,,0
+253,Mockery,0,0,,0
+254,Mockery,0,0,,0
+255,Mockery,1,1,,1
+256,Mockery,0,0,,0
+257,Mockery,0,0,,0
+258,Mockery,0,0,,0
+259,Mockery,0,0,,0
+260,Mockery,0,0,,0
+261,Mockery,0,0,,0
+262,Mockery,0,0,,0
+263,Mockery,0,0,,0
+264,Mockery,0,0,,0
+265,Mockery,0,0,,0
+266,Mockery,0,0,,0
+267,Mockery,0,0,,0
+268,Mockery,0,0,,0
+269,Mockery,1,1,,1
+270,Mockery,0,0,,0
+271,Mockery,1,1,,1
+272,Mockery,0,0,,0
+273,Mockery,0,0,,0
+274,Mockery,0,0,,0
+275,Mockery,0,0,,0
+276,Mockery,1,1,,1
+277,Mockery,0,0,,0
+278,Mockery,0,0,,0
+279,Mockery,0,0,,0
+280,Mockery,0,0,,0
+281,Mockery,0,0,,0
+282,Mockery,0,0,,0
+283,Mockery,0,0,,0
+284,Mockery,0,0,,0
+285,Mockery,0,0,,0
+286,Mockery,0,0,,0
+287,Mockery,0,0,,0
+288,Mockery,0,0,,0
+289,Mockery,0,0,,0
+290,Mockery,1,1,,1
+291,Mockery,1,1,,1
+292,Mockery,0,0,,0
+293,Mockery,0,0,,0
+294,Mockery,0,0,,0
+295,Mockery,0,0,,0
+296,Mockery,0,0,,0
+297,Mockery,0,0,,0
+298,Mockery,0,0,,0
+299,Mockery,0,0,,0
+300,Mockery,0,0,,0
+301,Mockery,1,1,,1
+302,Mockery,0,0,,0
+303,Mockery,0,0,,0
+304,Mockery,0,0,,0
+305,Mockery,0,0,,0
+306,Mockery,0,0,,0
+307,Mockery,1,1,,1
+308,Mockery,0,0,,0
+309,Mockery,0,0,,0
+310,Mockery,0,0,,0
+1,Dismissive attitude,0,0,,0
+2,Dismissive attitude,0,0,,0
+3,Dismissive attitude,0,0,,0
+4,Dismissive attitude,0,0,,0
+5,Dismissive attitude,0,0,,0
+6,Dismissive attitude,0,0,,0
+7,Dismissive attitude,0,0,,0
+8,Dismissive attitude,1,1,,1
+9,Dismissive attitude,1,0,0.0,0
+10,Dismissive attitude,0,0,,0
+11,Dismissive attitude,0,0,,0
+12,Dismissive attitude,0,0,,0
+13,Dismissive attitude,0,0,,0
+14,Dismissive attitude,0,0,,0
+15,Dismissive attitude,0,0,,0
+16,Dismissive attitude,0,0,,0
+17,Dismissive attitude,0,0,,0
+18,Dismissive attitude,0,0,,0
+19,Dismissive attitude,1,1,,1
+20,Dismissive attitude,0,0,,0
+21,Dismissive attitude,0,0,,0
+22,Dismissive attitude,0,0,,0
+23,Dismissive attitude,0,0,,0
+24,Dismissive attitude,0,0,,0
+25,Dismissive attitude,0,0,,0
+26,Dismissive attitude,1,0,0.0,0
+27,Dismissive attitude,1,0,0.0,0
+28,Dismissive attitude,0,0,,0
+29,Dismissive attitude,0,0,,0
+30,Dismissive attitude,1,1,,1
+31,Dismissive attitude,0,0,,0
+32,Dismissive attitude,0,0,,0
+33,Dismissive attitude,0,0,,0
+34,Dismissive attitude,0,0,,0
+35,Dismissive attitude,0,0,,0
+36,Dismissive attitude,0,0,,0
+37,Dismissive attitude,0,0,,0
+38,Dismissive attitude,0,0,,0
+39,Dismissive attitude,0,0,,0
+40,Dismissive attitude,0,0,,0
+41,Dismissive attitude,0,0,,0
+42,Dismissive attitude,0,0,,0
+43,Dismissive attitude,1,0,0.0,0
+44,Dismissive attitude,0,0,,0
+45,Dismissive attitude,1,1,,1
+46,Dismissive attitude,0,0,,0
+47,Dismissive attitude,0,0,,0
+48,Dismissive attitude,0,0,,0
+49,Dismissive attitude,0,0,,0
+50,Dismissive attitude,0,0,,0
+51,Dismissive attitude,0,0,,0
+52,Dismissive attitude,0,0,,0
+53,Dismissive attitude,0,1,0.0,0
+54,Dismissive attitude,0,0,,0
+55,Dismissive attitude,0,0,,0
+56,Dismissive attitude,0,0,,0
+57,Dismissive attitude,0,0,,0
+58,Dismissive attitude,0,0,,0
+59,Dismissive attitude,0,0,,0
+60,Dismissive attitude,1,1,,1
+61,Dismissive attitude,0,0,,0
+62,Dismissive attitude,0,0,,0
+63,Dismissive attitude,0,0,,0
+64,Dismissive attitude,0,0,,0
+65,Dismissive attitude,0,1,1.0,1
+66,Dismissive attitude,0,0,,0
+67,Dismissive attitude,0,1,0.0,0
+68,Dismissive attitude,0,0,,0
+69,Dismissive attitude,0,0,,0
+70,Dismissive attitude,0,0,,0
+71,Dismissive attitude,0,0,,0
+72,Dismissive attitude,0,0,,0
+73,Dismissive attitude,0,0,,0
+74,Dismissive attitude,0,0,,0
+75,Dismissive attitude,0,0,,0
+76,Dismissive attitude,1,1,,1
+77,Dismissive attitude,0,0,,0
+78,Dismissive attitude,0,0,,0
+79,Dismissive attitude,0,0,,0
+80,Dismissive attitude,0,0,,0
+81,Dismissive attitude,0,0,,0
+82,Dismissive attitude,0,0,,0
+83,Dismissive attitude,0,1,0.0,0
+84,Dismissive attitude,0,0,,0
+85,Dismissive attitude,0,0,,0
+86,Dismissive attitude,0,0,,0
+87,Dismissive attitude,0,0,,0
+88,Dismissive attitude,1,1,,1
+89,Dismissive attitude,0,0,,0
+90,Dismissive attitude,0,0,,0
+91,Dismissive attitude,0,0,,0
+92,Dismissive attitude,0,0,,0
+93,Dismissive attitude,0,0,,0
+94,Dismissive attitude,1,1,,1
+95,Dismissive attitude,0,0,,0
+96,Dismissive attitude,0,0,,0
+97,Dismissive attitude,0,0,,0
+98,Dismissive attitude,0,0,,0
+99,Dismissive attitude,0,0,,0
+100,Dismissive attitude,0,0,,0
+101,Dismissive attitude,0,0,,0
+102,Dismissive attitude,0,0,,0
+103,Dismissive attitude,0,0,,0
+104,Dismissive attitude,0,0,,0
+105,Dismissive attitude,0,0,,0
+106,Dismissive attitude,0,0,,0
+107,Dismissive attitude,0,0,,0
+108,Dismissive attitude,1,1,,1
+109,Dismissive attitude,0,0,,0
+110,Dismissive attitude,0,0,,0
+111,Dismissive attitude,0,0,,0
+112,Dismissive attitude,0,0,,0
+113,Dismissive attitude,0,0,,0
+114,Dismissive attitude,1,1,,1
+115,Dismissive attitude,0,0,,0
+116,Dismissive attitude,0,1,0.0,0
+117,Dismissive attitude,0,0,,0
+118,Dismissive attitude,0,0,,0
+119,Dismissive attitude,1,0,0.0,0
+120,Dismissive attitude,0,0,,0
+121,Dismissive attitude,0,0,,0
+122,Dismissive attitude,1,1,,1
+123,Dismissive attitude,0,0,,0
+124,Dismissive attitude,0,0,,0
+125,Dismissive attitude,0,0,,0
+126,Dismissive attitude,0,0,,0
+127,Dismissive attitude,0,0,,0
+128,Dismissive attitude,0,1,0.0,0
+129,Dismissive attitude,0,0,,0
+130,Dismissive attitude,0,0,,0
+131,Dismissive attitude,0,0,,0
+132,Dismissive attitude,0,0,,0
+133,Dismissive attitude,0,0,,0
+134,Dismissive attitude,0,0,,0
+135,Dismissive attitude,0,0,,0
+136,Dismissive attitude,0,0,,0
+137,Dismissive attitude,0,0,,0
+138,Dismissive attitude,0,0,,0
+139,Dismissive attitude,1,1,,1
+140,Dismissive attitude,0,0,,0
+141,Dismissive attitude,0,0,,0
+142,Dismissive attitude,0,0,,0
+143,Dismissive attitude,0,0,,0
+144,Dismissive attitude,0,0,,0
+145,Dismissive attitude,1,1,,1
+146,Dismissive attitude,0,0,,0
+147,Dismissive attitude,0,0,,0
+148,Dismissive attitude,0,0,,0
+149,Dismissive attitude,0,0,,0
+150,Dismissive attitude,0,0,,0
+151,Dismissive attitude,0,0,,0
+152,Dismissive attitude,0,0,,0
+153,Dismissive attitude,0,0,,0
+154,Dismissive attitude,1,1,,1
+155,Dismissive attitude,1,1,,1
+156,Dismissive attitude,0,0,,0
+157,Dismissive attitude,0,0,,0
+158,Dismissive attitude,0,0,,0
+159,Dismissive attitude,0,0,,0
+160,Dismissive attitude,0,0,,0
+161,Dismissive attitude,0,0,,0
+162,Dismissive attitude,0,1,0.0,0
+163,Dismissive attitude,0,0,,0
+164,Dismissive attitude,0,0,,0
+165,Dismissive attitude,0,0,,0
+166,Dismissive attitude,0,1,1.0,1
+167,Dismissive attitude,0,0,,0
+168,Dismissive attitude,1,0,0.0,0
+169,Dismissive attitude,0,0,,0
+170,Dismissive attitude,0,0,,0
+171,Dismissive attitude,0,0,,0
+172,Dismissive attitude,0,0,,0
+173,Dismissive attitude,1,1,,1
+174,Dismissive attitude,0,0,,0
+175,Dismissive attitude,0,0,,0
+176,Dismissive attitude,1,0,0.0,0
+177,Dismissive attitude,0,0,,0
+178,Dismissive attitude,0,0,,0
+179,Dismissive attitude,0,0,,0
+180,Dismissive attitude,0,0,,0
+181,Dismissive attitude,0,0,,0
+182,Dismissive attitude,0,0,,0
+183,Dismissive attitude,0,0,,0
+184,Dismissive attitude,0,0,,0
+185,Dismissive attitude,0,0,,0
+186,Dismissive attitude,0,0,,0
+187,Dismissive attitude,0,0,,0
+188,Dismissive attitude,0,0,,0
+189,Dismissive attitude,1,1,,1
+190,Dismissive attitude,0,0,,0
+191,Dismissive attitude,0,0,,0
+192,Dismissive attitude,0,0,,0
+193,Dismissive attitude,0,0,,0
+194,Dismissive attitude,1,1,,1
+195,Dismissive attitude,0,0,,0
+196,Dismissive attitude,0,0,,0
+197,Dismissive attitude,0,0,,0
+198,Dismissive attitude,0,0,,0
+199,Dismissive attitude,0,0,,0
+200,Dismissive attitude,0,0,,0
+201,Dismissive attitude,0,0,,0
+202,Dismissive attitude,0,0,,0
+203,Dismissive attitude,0,0,,0
+204,Dismissive attitude,0,0,,0
+205,Dismissive attitude,1,1,,1
+206,Dismissive attitude,0,0,,0
+207,Dismissive attitude,0,1,0.0,0
+208,Dismissive attitude,0,0,,0
+209,Dismissive attitude,0,1,0.0,0
+210,Dismissive attitude,0,0,,0
+211,Dismissive attitude,1,1,,1
+212,Dismissive attitude,0,0,,0
+213,Dismissive attitude,0,0,,0
+214,Dismissive attitude,1,1,,1
+215,Dismissive attitude,0,0,,0
+216,Dismissive attitude,0,0,,0
+217,Dismissive attitude,0,0,,0
+218,Dismissive attitude,0,0,,0
+219,Dismissive attitude,0,0,,0
+220,Dismissive attitude,1,1,,1
+221,Dismissive attitude,0,0,,0
+222,Dismissive attitude,0,0,,0
+223,Dismissive attitude,1,1,,1
+224,Dismissive attitude,0,0,,0
+225,Dismissive attitude,0,0,,0
+226,Dismissive attitude,1,1,,1
+227,Dismissive attitude,0,0,,0
+228,Dismissive attitude,0,0,,0
+229,Dismissive attitude,0,0,,0
+230,Dismissive attitude,0,0,,0
+231,Dismissive attitude,0,0,,0
+232,Dismissive attitude,0,0,,0
+233,Dismissive attitude,0,0,,0
+234,Dismissive attitude,1,1,,1
+235,Dismissive attitude,0,0,,0
+236,Dismissive attitude,0,0,,0
+237,Dismissive attitude,0,0,,0
+238,Dismissive attitude,1,1,,1
+239,Dismissive attitude,0,0,,0
+240,Dismissive attitude,0,0,,0
+241,Dismissive attitude,0,0,,0
+242,Dismissive attitude,0,0,,0
+243,Dismissive attitude,0,0,,0
+244,Dismissive attitude,0,0,,0
+245,Dismissive attitude,0,0,,0
+246,Dismissive attitude,0,0,,0
+247,Dismissive attitude,1,1,,1
+248,Dismissive attitude,0,0,,0
+249,Dismissive attitude,0,0,,0
+250,Dismissive attitude,0,0,,0
+251,Dismissive attitude,0,0,,0
+252,Dismissive attitude,0,0,,0
+253,Dismissive attitude,0,0,,0
+254,Dismissive attitude,1,0,0.0,0
+255,Dismissive attitude,0,0,,0
+256,Dismissive attitude,1,0,0.0,0
+257,Dismissive attitude,0,0,,0
+258,Dismissive attitude,0,0,,0
+259,Dismissive attitude,0,0,,0
+260,Dismissive attitude,0,0,,0
+261,Dismissive attitude,0,0,,0
+262,Dismissive attitude,0,0,,0
+263,Dismissive attitude,0,0,,0
+264,Dismissive attitude,0,1,0.0,0
+265,Dismissive attitude,1,0,0.0,0
+266,Dismissive attitude,0,0,,0
+267,Dismissive attitude,0,0,,0
+268,Dismissive attitude,1,1,,1
+269,Dismissive attitude,0,0,,0
+270,Dismissive attitude,0,0,,0
+271,Dismissive attitude,0,0,,0
+272,Dismissive attitude,0,0,,0
+273,Dismissive attitude,0,0,,0
+274,Dismissive attitude,0,0,,0
+275,Dismissive attitude,0,0,,0
+276,Dismissive attitude,1,0,0.0,0
+277,Dismissive attitude,0,0,,0
+278,Dismissive attitude,0,0,,0
+279,Dismissive attitude,0,0,,0
+280,Dismissive attitude,0,0,,0
+281,Dismissive attitude,0,0,,0
+282,Dismissive attitude,0,0,,0
+283,Dismissive attitude,0,0,,0
+284,Dismissive attitude,0,0,,0
+285,Dismissive attitude,0,0,,0
+286,Dismissive attitude,0,0,,0
+287,Dismissive attitude,0,1,0.0,0
+288,Dismissive attitude,0,0,,0
+289,Dismissive attitude,0,0,,0
+290,Dismissive attitude,1,1,,1
+291,Dismissive attitude,0,1,0.0,0
+292,Dismissive attitude,0,0,,0
+293,Dismissive attitude,0,0,,0
+294,Dismissive attitude,0,0,,0
+295,Dismissive attitude,0,0,,0
+296,Dismissive attitude,0,0,,0
+297,Dismissive attitude,0,0,,0
+298,Dismissive attitude,0,0,,0
+299,Dismissive attitude,0,1,1.0,1
+300,Dismissive attitude,0,0,,0
+301,Dismissive attitude,0,0,,0
+302,Dismissive attitude,0,0,,0
+303,Dismissive attitude,0,0,,0
+304,Dismissive attitude,0,0,,0
+305,Dismissive attitude,0,0,,0
+306,Dismissive attitude,0,0,,0
+307,Dismissive attitude,0,0,,0
+308,Dismissive attitude,0,0,,0
+309,Dismissive attitude,0,0,,0
+310,Dismissive attitude,0,0,,0
+1,Personal attacks,0,0,,0
+2,Personal attacks,1,1,,1
+3,Personal attacks,0,0,,0
+4,Personal attacks,0,0,,0
+5,Personal attacks,0,1,1.0,1
+6,Personal attacks,0,0,,0
+7,Personal attacks,0,0,,0
+8,Personal attacks,0,0,,0
+9,Personal attacks,0,1,0.0,0
+10,Personal attacks,0,0,,0
+11,Personal attacks,0,0,,0
+12,Personal attacks,0,0,,0
+13,Personal attacks,0,0,,0
+14,Personal attacks,0,0,,0
+15,Personal attacks,0,0,,0
+16,Personal attacks,0,0,,0
+17,Personal attacks,0,0,,0
+18,Personal attacks,1,1,,1
+19,Personal attacks,0,0,,0
+20,Personal attacks,0,0,,0
+21,Personal attacks,0,0,,0
+22,Personal attacks,0,1,0.0,0
+23,Personal attacks,0,0,,0
+24,Personal attacks,0,0,,0
+25,Personal attacks,0,0,,0
+26,Personal attacks,0,0,,0
+27,Personal attacks,0,0,,0
+28,Personal attacks,0,0,,0
+29,Personal attacks,0,0,,0
+30,Personal attacks,0,0,,0
+31,Personal attacks,0,0,,0
+32,Personal attacks,0,0,,0
+33,Personal attacks,0,0,,0
+34,Personal attacks,0,0,,0
+35,Personal attacks,0,0,,0
+36,Personal attacks,0,0,,0
+37,Personal attacks,0,0,,0
+38,Personal attacks,0,0,,0
+39,Personal attacks,0,0,,0
+40,Personal attacks,0,0,,0
+41,Personal attacks,0,0,,0
+42,Personal attacks,0,0,,0
+43,Personal attacks,0,0,,0
+44,Personal attacks,0,0,,0
+45,Personal attacks,1,0,1.0,1
+46,Personal attacks,1,1,,1
+47,Personal attacks,0,0,,0
+48,Personal attacks,0,0,,0
+49,Personal attacks,0,0,,0
+50,Personal attacks,0,0,,0
+51,Personal attacks,1,1,,1
+52,Personal attacks,1,1,,1
+53,Personal attacks,1,1,,1
+54,Personal attacks,0,0,,0
+55,Personal attacks,0,0,,0
+56,Personal attacks,0,0,,0
+57,Personal attacks,0,0,,0
+58,Personal attacks,0,0,,0
+59,Personal attacks,0,0,,0
+60,Personal attacks,0,0,,0
+61,Personal attacks,0,0,,0
+62,Personal attacks,0,0,,0
+63,Personal attacks,1,1,,1
+64,Personal attacks,0,0,,0
+65,Personal attacks,0,0,,0
+66,Personal attacks,0,0,,0
+67,Personal attacks,0,0,,0
+68,Personal attacks,0,0,,0
+69,Personal attacks,0,0,,0
+70,Personal attacks,0,0,,0
+71,Personal attacks,0,0,,0
+72,Personal attacks,1,1,,1
+73,Personal attacks,0,0,,0
+74,Personal attacks,0,0,,0
+75,Personal attacks,0,0,,0
+76,Personal attacks,1,1,,1
+77,Personal attacks,0,0,,0
+78,Personal attacks,0,0,,0
+79,Personal attacks,0,0,,0
+80,Personal attacks,0,0,,0
+81,Personal attacks,0,0,,0
+82,Personal attacks,0,0,,0
+83,Personal attacks,0,0,,0
+84,Personal attacks,0,0,,0
+85,Personal attacks,1,1,,1
+86,Personal attacks,0,0,,0
+87,Personal attacks,0,0,,0
+88,Personal attacks,0,0,,0
+89,Personal attacks,0,0,,0
+90,Personal attacks,0,0,,0
+91,Personal attacks,0,0,,0
+92,Personal attacks,0,0,,0
+93,Personal attacks,0,0,,0
+94,Personal attacks,0,0,,0
+95,Personal attacks,0,0,,0
+96,Personal attacks,0,0,,0
+97,Personal attacks,0,0,,0
+98,Personal attacks,0,0,,0
+99,Personal attacks,0,0,,0
+100,Personal attacks,0,0,,0
+101,Personal attacks,0,0,,0
+102,Personal attacks,0,0,,0
+103,Personal attacks,0,0,,0
+104,Personal attacks,0,0,,0
+105,Personal attacks,0,0,,0
+106,Personal attacks,1,1,,1
+107,Personal attacks,0,0,,0
+108,Personal attacks,0,0,,0
+109,Personal attacks,0,0,,0
+110,Personal attacks,0,0,,0
+111,Personal attacks,0,0,,0
+112,Personal attacks,0,0,,0
+113,Personal attacks,0,0,,0
+114,Personal attacks,0,0,,0
+115,Personal attacks,1,0,0.0,0
+116,Personal attacks,0,0,,0
+117,Personal attacks,0,0,,0
+118,Personal attacks,0,0,,0
+119,Personal attacks,0,0,,0
+120,Personal attacks,0,0,,0
+121,Personal attacks,0,0,,0
+122,Personal attacks,0,1,0.0,0
+123,Personal attacks,0,0,,0
+124,Personal attacks,0,0,,0
+125,Personal attacks,0,0,,0
+126,Personal attacks,0,0,,0
+127,Personal attacks,0,0,,0
+128,Personal attacks,0,0,,0
+129,Personal attacks,0,0,,0
+130,Personal attacks,0,0,,0
+131,Personal attacks,0,0,,0
+132,Personal attacks,0,0,,0
+133,Personal attacks,1,1,,1
+134,Personal attacks,0,0,,0
+135,Personal attacks,0,0,,0
+136,Personal attacks,0,0,,0
+137,Personal attacks,0,0,,0
+138,Personal attacks,0,0,,0
+139,Personal attacks,1,0,0.0,0
+140,Personal attacks,0,0,,0
+141,Personal attacks,0,0,,0
+142,Personal attacks,0,0,,0
+143,Personal attacks,0,0,,0
+144,Personal attacks,0,0,,0
+145,Personal attacks,1,1,,1
+146,Personal attacks,0,0,,0
+147,Personal attacks,1,1,,1
+148,Personal attacks,0,0,,0
+149,Personal attacks,0,0,,0
+150,Personal attacks,0,0,,0
+151,Personal attacks,0,0,,0
+152,Personal attacks,0,0,,0
+153,Personal attacks,0,0,,0
+154,Personal attacks,0,0,,0
+155,Personal attacks,0,0,,0
+156,Personal attacks,0,0,,0
+157,Personal attacks,0,0,,0
+158,Personal attacks,0,0,,0
+159,Personal attacks,0,0,,0
+160,Personal attacks,0,0,,0
+161,Personal attacks,0,0,,0
+162,Personal attacks,0,0,,0
+163,Personal attacks,0,0,,0
+164,Personal attacks,0,0,,0
+165,Personal attacks,0,0,,0
+166,Personal attacks,0,0,,0
+167,Personal attacks,0,0,,0
+168,Personal attacks,0,0,,0
+169,Personal attacks,1,1,,1
+170,Personal attacks,0,0,,0
+171,Personal attacks,1,1,,1
+172,Personal attacks,0,0,,0
+173,Personal attacks,0,0,,0
+174,Personal attacks,0,0,,0
+175,Personal attacks,0,0,,0
+176,Personal attacks,0,0,,0
+177,Personal attacks,0,0,,0
+178,Personal attacks,0,0,,0
+179,Personal attacks,0,1,0.0,0
+180,Personal attacks,0,0,,0
+181,Personal attacks,0,0,,0
+182,Personal attacks,0,0,,0
+183,Personal attacks,0,0,,0
+184,Personal attacks,0,0,,0
+185,Personal attacks,0,0,,0
+186,Personal attacks,0,0,,0
+187,Personal attacks,0,0,,0
+188,Personal attacks,0,0,,0
+189,Personal attacks,0,0,,0
+190,Personal attacks,1,0,0.0,0
+191,Personal attacks,0,1,0.0,0
+192,Personal attacks,0,0,,0
+193,Personal attacks,0,0,,0
+194,Personal attacks,0,0,,0
+195,Personal attacks,0,0,,0
+196,Personal attacks,1,1,,1
+197,Personal attacks,0,0,,0
+198,Personal attacks,0,0,,0
+199,Personal attacks,0,0,,0
+200,Personal attacks,0,0,,0
+201,Personal attacks,0,0,,0
+202,Personal attacks,0,0,,0
+203,Personal attacks,0,0,,0
+204,Personal attacks,1,1,,1
+205,Personal attacks,0,0,,0
+206,Personal attacks,0,0,,0
+207,Personal attacks,0,0,,0
+208,Personal attacks,0,0,,0
+209,Personal attacks,0,0,,0
+210,Personal attacks,0,0,,0
+211,Personal attacks,0,0,,0
+212,Personal attacks,0,0,,0
+213,Personal attacks,0,0,,0
+214,Personal attacks,0,0,,0
+215,Personal attacks,0,0,,0
+216,Personal attacks,0,0,,0
+217,Personal attacks,0,0,,0
+218,Personal attacks,0,0,,0
+219,Personal attacks,0,0,,0
+220,Personal attacks,0,0,,0
+221,Personal attacks,0,0,,0
+222,Personal attacks,0,0,,0
+223,Personal attacks,0,0,,0
+224,Personal attacks,0,0,,0
+225,Personal attacks,0,0,,0
+226,Personal attacks,1,1,,1
+227,Personal attacks,0,0,,0
+228,Personal attacks,0,0,,0
+229,Personal attacks,0,0,,0
+230,Personal attacks,0,0,,0
+231,Personal attacks,0,0,,0
+232,Personal attacks,0,0,,0
+233,Personal attacks,0,0,,0
+234,Personal attacks,0,0,,0
+235,Personal attacks,0,0,,0
+236,Personal attacks,0,0,,0
+237,Personal attacks,0,0,,0
+238,Personal attacks,0,0,,0
+239,Personal attacks,0,0,,0
+240,Personal attacks,0,0,,0
+241,Personal attacks,0,0,,0
+242,Personal attacks,0,0,,0
+243,Personal attacks,0,0,,0
+244,Personal attacks,0,0,,0
+245,Personal attacks,0,0,,0
+246,Personal attacks,0,0,,0
+247,Personal attacks,1,0,1.0,1
+248,Personal attacks,0,0,,0
+249,Personal attacks,0,0,,0
+250,Personal attacks,0,0,,0
+251,Personal attacks,0,0,,0
+252,Personal attacks,0,0,,0
+253,Personal attacks,0,0,,0
+254,Personal attacks,0,0,,0
+255,Personal attacks,0,0,,0
+256,Personal attacks,0,0,,0
+257,Personal attacks,0,0,,0
+258,Personal attacks,0,0,,0
+259,Personal attacks,0,0,,0
+260,Personal attacks,0,0,,0
+261,Personal attacks,0,0,,0
+262,Personal attacks,0,0,,0
+263,Personal attacks,0,0,,0
+264,Personal attacks,0,0,,0
+265,Personal attacks,1,1,,1
+266,Personal attacks,0,0,,0
+267,Personal attacks,0,0,,0
+268,Personal attacks,0,0,,0
+269,Personal attacks,0,0,,0
+270,Personal attacks,0,0,,0
+271,Personal attacks,0,0,,0
+272,Personal attacks,0,0,,0
+273,Personal attacks,0,0,,0
+274,Personal attacks,0,0,,0
+275,Personal attacks,0,0,,0
+276,Personal attacks,0,0,,0
+277,Personal attacks,0,0,,0
+278,Personal attacks,0,0,,0
+279,Personal attacks,0,1,1.0,1
+280,Personal attacks,0,1,0.0,0
+281,Personal attacks,0,0,,0
+282,Personal attacks,0,0,,0
+283,Personal attacks,0,0,,0
+284,Personal attacks,0,0,,0
+285,Personal attacks,1,0,0.0,0
+286,Personal attacks,0,0,,0
+287,Personal attacks,0,0,,0
+288,Personal attacks,0,0,,0
+289,Personal attacks,0,0,,0
+290,Personal attacks,1,1,,1
+291,Personal attacks,0,0,,0
+292,Personal attacks,0,0,,0
+293,Personal attacks,0,0,,0
+294,Personal attacks,0,0,,0
+295,Personal attacks,0,0,,0
+296,Personal attacks,0,0,,0
+297,Personal attacks,0,0,,0
+298,Personal attacks,0,0,,0
+299,Personal attacks,0,0,,0
+300,Personal attacks,0,0,,0
+301,Personal attacks,1,1,,1
+302,Personal attacks,0,0,,0
+303,Personal attacks,0,0,,0
+304,Personal attacks,0,0,,0
+305,Personal attacks,0,0,,0
+306,Personal attacks,0,0,,0
+307,Personal attacks,1,1,,1
+308,Personal attacks,0,0,,0
+309,Personal attacks,0,0,,0
+310,Personal attacks,1,1,,1
+1,Excessive control,0,1,0.0,0
+2,Excessive control,0,0,,0
+3,Excessive control,0,0,,0
+4,Excessive control,0,0,,0
+5,Excessive control,0,0,,0
+6,Excessive control,0,0,,0
+7,Excessive control,0,0,,0
+8,Excessive control,0,1,0.0,0
+9,Excessive control,0,0,,0
+10,Excessive control,0,0,,0
+11,Excessive control,0,0,,0
+12,Excessive control,0,0,,0
+13,Excessive control,0,0,,0
+14,Excessive control,0,0,,0
+15,Excessive control,0,0,,0
+16,Excessive control,0,0,,0
+17,Excessive control,0,0,,0
+18,Excessive control,0,0,,0
+19,Excessive control,0,0,,0
+20,Excessive control,0,0,,0
+21,Excessive control,0,0,,0
+22,Excessive control,0,0,,0
+23,Excessive control,0,0,,0
+24,Excessive control,0,0,,0
+25,Excessive control,0,0,,0
+26,Excessive control,0,0,,0
+27,Excessive control,0,0,,0
+28,Excessive control,0,0,,0
+29,Excessive control,0,0,,0
+30,Excessive control,0,0,,0
+31,Excessive control,0,0,,0
+32,Excessive control,0,0,,0
+33,Excessive control,0,0,,0
+34,Excessive control,0,1,0.0,0
+35,Excessive control,1,1,,1
+36,Excessive control,0,0,,0
+37,Excessive control,0,0,,0
+38,Excessive control,0,0,,0
+39,Excessive control,0,0,,0
+40,Excessive control,0,0,,0
+41,Excessive control,0,0,,0
+42,Excessive control,0,0,,0
+43,Excessive control,0,0,,0
+44,Excessive control,0,0,,0
+45,Excessive control,0,0,,0
+46,Excessive control,0,0,,0
+47,Excessive control,0,0,,0
+48,Excessive control,1,1,,1
+49,Excessive control,0,0,,0
+50,Excessive control,0,0,,0
+51,Excessive control,0,0,,0
+52,Excessive control,0,0,,0
+53,Excessive control,0,0,,0
+54,Excessive control,0,1,0.0,0
+55,Excessive control,0,0,,0
+56,Excessive control,0,0,,0
+57,Excessive control,0,0,,0
+58,Excessive control,0,0,,0
+59,Excessive control,0,0,,0
+60,Excessive control,0,0,,0
+61,Excessive control,0,0,,0
+62,Excessive control,0,0,,0
+63,Excessive control,0,0,,0
+64,Excessive control,1,1,,1
+65,Excessive control,0,0,,0
+66,Excessive control,0,0,,0
+67,Excessive control,0,0,,0
+68,Excessive control,0,0,,0
+69,Excessive control,0,0,,0
+70,Excessive control,0,0,,0
+71,Excessive control,0,0,,0
+72,Excessive control,0,0,,0
+73,Excessive control,0,0,,0
+74,Excessive control,0,0,,0
+75,Excessive control,0,0,,0
+76,Excessive control,0,0,,0
+77,Excessive control,0,0,,0
+78,Excessive control,0,0,,0
+79,Excessive control,0,0,,0
+80,Excessive control,1,1,,1
+81,Excessive control,0,0,,0
+82,Excessive control,0,0,,0
+83,Excessive control,1,0,0.0,0
+84,Excessive control,0,0,,0
+85,Excessive control,0,0,,0
+86,Excessive control,0,0,,0
+87,Excessive control,0,0,,0
+88,Excessive control,0,0,,0
+89,Excessive control,0,0,,0
+90,Excessive control,0,0,,0
+91,Excessive control,0,0,,0
+92,Excessive control,1,0,0.0,0
+93,Excessive control,0,0,,0
+94,Excessive control,0,0,,0
+95,Excessive control,1,1,,1
+96,Excessive control,0,0,,0
+97,Excessive control,0,0,,0
+98,Excessive control,0,0,,0
+99,Excessive control,0,0,,0
+100,Excessive control,0,0,,0
+101,Excessive control,0,0,,0
+102,Excessive control,0,0,,0
+103,Excessive control,1,1,,1
+104,Excessive control,0,0,,0
+105,Excessive control,0,0,,0
+106,Excessive control,0,0,,0
+107,Excessive control,0,0,,0
+108,Excessive control,0,0,,0
+109,Excessive control,0,0,,0
+110,Excessive control,0,0,,0
+111,Excessive control,0,0,,0
+112,Excessive control,0,0,,0
+113,Excessive control,0,0,,0
+114,Excessive control,0,0,,0
+115,Excessive control,0,0,,0
+116,Excessive control,0,0,,0
+117,Excessive control,0,0,,0
+118,Excessive control,0,0,,0
+119,Excessive control,0,0,,0
+120,Excessive control,0,0,,0
+121,Excessive control,0,0,,0
+122,Excessive control,0,0,,0
+123,Excessive control,0,0,,0
+124,Excessive control,0,0,,0
+125,Excessive control,1,0,0.0,0
+126,Excessive control,1,1,,1
+127,Excessive control,0,0,,0
+128,Excessive control,1,1,,1
+129,Excessive control,0,0,,0
+130,Excessive control,0,0,,0
+131,Excessive control,0,0,,0
+132,Excessive control,0,0,,0
+133,Excessive control,0,0,,0
+134,Excessive control,0,0,,0
+135,Excessive control,0,0,,0
+136,Excessive control,0,0,,0
+137,Excessive control,0,0,,0
+138,Excessive control,0,0,,0
+139,Excessive control,0,0,,0
+140,Excessive control,0,0,,0
+141,Excessive control,0,0,,0
+142,Excessive control,0,0,,0
+143,Excessive control,0,0,,0
+144,Excessive control,0,0,,0
+145,Excessive control,0,1,0.0,0
+146,Excessive control,0,0,,0
+147,Excessive control,0,0,,0
+148,Excessive control,0,0,,0
+149,Excessive control,0,0,,0
+150,Excessive control,0,0,,0
+151,Excessive control,0,0,,0
+152,Excessive control,0,0,,0
+153,Excessive control,0,1,0.0,0
+154,Excessive control,0,0,,0
+155,Excessive control,0,0,,0
+156,Excessive control,0,0,,0
+157,Excessive control,0,0,,0
+158,Excessive control,1,1,,1
+159,Excessive control,1,1,,1
+160,Excessive control,0,0,,0
+161,Excessive control,0,0,,0
+162,Excessive control,0,0,,0
+163,Excessive control,0,0,,0
+164,Excessive control,0,0,,0
+165,Excessive control,0,0,,0
+166,Excessive control,1,1,,1
+167,Excessive control,0,0,,0
+168,Excessive control,0,0,,0
+169,Excessive control,0,0,,0
+170,Excessive control,0,1,0.0,0
+171,Excessive control,0,0,,0
+172,Excessive control,0,0,,0
+173,Excessive control,0,0,,0
+174,Excessive control,0,0,,0
+175,Excessive control,0,0,,0
+176,Excessive control,0,0,,0
+177,Excessive control,1,1,,1
+178,Excessive control,0,0,,0
+179,Excessive control,0,0,,0
+180,Excessive control,0,0,,0
+181,Excessive control,0,0,,0
+182,Excessive control,0,0,,0
+183,Excessive control,0,0,,0
+184,Excessive control,0,0,,0
+185,Excessive control,1,0,0.0,0
+186,Excessive control,0,0,,0
+187,Excessive control,0,0,,0
+188,Excessive control,0,0,,0
+189,Excessive control,0,0,,0
+190,Excessive control,0,0,,0
+191,Excessive control,1,1,,1
+192,Excessive control,0,0,,0
+193,Excessive control,0,0,,0
+194,Excessive control,0,0,,0
+195,Excessive control,0,0,,0
+196,Excessive control,0,0,,0
+197,Excessive control,0,0,,0
+198,Excessive control,0,0,,0
+199,Excessive control,0,0,,0
+200,Excessive control,0,0,,0
+201,Excessive control,0,0,,0
+202,Excessive control,0,0,,0
+203,Excessive control,0,0,,0
+204,Excessive control,0,0,,0
+205,Excessive control,0,0,,0
+206,Excessive control,0,0,,0
+207,Excessive control,0,0,,0
+208,Excessive control,0,0,,0
+209,Excessive control,0,0,,0
+210,Excessive control,0,0,,0
+211,Excessive control,0,0,,0
+212,Excessive control,0,0,,0
+213,Excessive control,0,0,,0
+214,Excessive control,0,0,,0
+215,Excessive control,0,0,,0
+216,Excessive control,1,0,0.0,0
+217,Excessive control,0,0,,0
+218,Excessive control,0,0,,0
+219,Excessive control,0,0,,0
+220,Excessive control,0,0,,0
+221,Excessive control,0,0,,0
+222,Excessive control,0,0,,0
+223,Excessive control,0,0,,0
+224,Excessive control,0,0,,0
+225,Excessive control,0,0,,0
+226,Excessive control,0,0,,0
+227,Excessive control,0,0,,0
+228,Excessive control,0,0,,0
+229,Excessive control,0,0,,0
+230,Excessive control,0,0,,0
+231,Excessive control,0,0,,0
+232,Excessive control,0,0,,0
+233,Excessive control,0,0,,0
+234,Excessive control,0,0,,0
+235,Excessive control,0,0,,0
+236,Excessive control,0,0,,0
+237,Excessive control,0,0,,0
+238,Excessive control,0,0,,0
+239,Excessive control,0,0,,0
+240,Excessive control,0,0,,0
+241,Excessive control,0,0,,0
+242,Excessive control,0,0,,0
+243,Excessive control,0,0,,0
+244,Excessive control,0,0,,0
+245,Excessive control,0,1,0.0,0
+246,Excessive control,0,0,,0
+247,Excessive control,0,0,,0
+248,Excessive control,0,1,0.0,0
+249,Excessive control,0,0,,0
+250,Excessive control,0,0,,0
+251,Excessive control,0,0,,0
+252,Excessive control,0,0,,0
+253,Excessive control,0,0,,0
+254,Excessive control,0,1,0.0,0
+255,Excessive control,0,0,,0
+256,Excessive control,0,0,,0
+257,Excessive control,0,0,,0
+258,Excessive control,1,0,0.0,0
+259,Excessive control,0,0,,0
+260,Excessive control,0,0,,0
+261,Excessive control,0,0,,0
+262,Excessive control,0,1,0.0,0
+263,Excessive control,0,0,,0
+264,Excessive control,0,0,,0
+265,Excessive control,0,0,,0
+266,Excessive control,0,0,,0
+267,Excessive control,0,0,,0
+268,Excessive control,0,0,,0
+269,Excessive control,0,0,,0
+270,Excessive control,0,0,,0
+271,Excessive control,0,0,,0
+272,Excessive control,0,0,,0
+273,Excessive control,0,0,,0
+274,Excessive control,0,0,,0
+275,Excessive control,0,0,,0
+276,Excessive control,0,0,,0
+277,Excessive control,0,0,,0
+278,Excessive control,1,1,,1
+279,Excessive control,0,0,,0
+280,Excessive control,0,0,,0
+281,Excessive control,1,0,0.0,0
+282,Excessive control,0,0,,0
+283,Excessive control,0,0,,0
+284,Excessive control,0,0,,0
+285,Excessive control,1,1,,1
+286,Excessive control,1,1,,1
+287,Excessive control,0,0,,0
+288,Excessive control,0,0,,0
+289,Excessive control,0,0,,0
+290,Excessive control,0,0,,0
+291,Excessive control,0,0,,0
+292,Excessive control,0,1,0.0,0
+293,Excessive control,0,0,,0
+294,Excessive control,0,0,,0
+295,Excessive control,0,0,,0
+296,Excessive control,0,0,,0
+297,Excessive control,0,0,,0
+298,Excessive control,1,1,,1
+299,Excessive control,0,0,,0
+300,Excessive control,0,0,,0
+301,Excessive control,0,0,,0
+302,Excessive control,0,0,,0
+303,Excessive control,0,0,,0
+304,Excessive control,0,0,,0
+305,Excessive control,0,0,,0
+306,Excessive control,0,0,,0
+307,Excessive control,0,0,,0
+308,Excessive control,0,0,,0
+309,Excessive control,0,0,,0
+310,Excessive control,0,0,,0
+1,Unconscious bias,0,0,,0
+2,Unconscious bias,0,0,,0
+3,Unconscious bias,0,0,,0
+4,Unconscious bias,0,0,,0
+5,Unconscious bias,0,0,,0
+6,Unconscious bias,0,0,,0
+7,Unconscious bias,0,0,,0
+8,Unconscious bias,0,0,,0
+9,Unconscious bias,0,0,,0
+10,Unconscious bias,0,0,,0
+11,Unconscious bias,0,1,0.0,0
+12,Unconscious bias,0,0,,0
+13,Unconscious bias,0,0,,0
+14,Unconscious bias,0,0,,0
+15,Unconscious bias,0,0,,0
+16,Unconscious bias,0,0,,0
+17,Unconscious bias,0,0,,0
+18,Unconscious bias,0,0,,0
+19,Unconscious bias,0,0,,0
+20,Unconscious bias,0,0,,0
+21,Unconscious bias,0,0,,0
+22,Unconscious bias,0,0,,0
+23,Unconscious bias,0,0,,0
+24,Unconscious bias,0,0,,0
+25,Unconscious bias,0,0,,0
+26,Unconscious bias,0,0,,0
+27,Unconscious bias,0,0,,0
+28,Unconscious bias,0,0,,0
+29,Unconscious bias,0,0,,0
+30,Unconscious bias,0,0,,0
+31,Unconscious bias,0,0,,0
+32,Unconscious bias,0,0,,0
+33,Unconscious bias,0,0,,0
+34,Unconscious bias,0,0,,0
+35,Unconscious bias,0,0,,0
+36,Unconscious bias,1,1,,1
+37,Unconscious bias,0,0,,0
+38,Unconscious bias,0,0,,0
+39,Unconscious bias,0,1,1.0,1
+40,Unconscious bias,0,0,,0
+41,Unconscious bias,0,0,,0
+42,Unconscious bias,0,0,,0
+43,Unconscious bias,0,0,,0
+44,Unconscious bias,0,0,,0
+45,Unconscious bias,0,0,,0
+46,Unconscious bias,0,0,,0
+47,Unconscious bias,0,0,,0
+48,Unconscious bias,0,0,,0
+49,Unconscious bias,0,0,,0
+50,Unconscious bias,0,0,,0
+51,Unconscious bias,0,0,,0
+52,Unconscious bias,0,0,,0
+53,Unconscious bias,0,0,,0
+54,Unconscious bias,0,0,,0
+55,Unconscious bias,0,1,0.0,0
+56,Unconscious bias,0,0,,0
+57,Unconscious bias,0,0,,0
+58,Unconscious bias,0,0,,0
+59,Unconscious bias,0,0,,0
+60,Unconscious bias,0,0,,0
+61,Unconscious bias,0,0,,0
+62,Unconscious bias,0,0,,0
+63,Unconscious bias,0,0,,0
+64,Unconscious bias,0,0,,0
+65,Unconscious bias,0,0,,0
+66,Unconscious bias,0,0,,0
+67,Unconscious bias,0,0,,0
+68,Unconscious bias,1,1,,1
+69,Unconscious bias,0,0,,0
+70,Unconscious bias,0,0,,0
+71,Unconscious bias,0,0,,0
+72,Unconscious bias,0,0,,0
+73,Unconscious bias,0,0,,0
+74,Unconscious bias,0,0,,0
+75,Unconscious bias,0,0,,0
+76,Unconscious bias,0,0,,0
+77,Unconscious bias,0,0,,0
+78,Unconscious bias,0,0,,0
+79,Unconscious bias,0,0,,0
+80,Unconscious bias,1,1,,1
+81,Unconscious bias,0,0,,0
+82,Unconscious bias,0,0,,0
+83,Unconscious bias,0,0,,0
+84,Unconscious bias,0,0,,0
+85,Unconscious bias,0,0,,0
+86,Unconscious bias,0,0,,0
+87,Unconscious bias,0,0,,0
+88,Unconscious bias,0,0,,0
+89,Unconscious bias,0,0,,0
+90,Unconscious bias,0,0,,0
+91,Unconscious bias,0,0,,0
+92,Unconscious bias,0,0,,0
+93,Unconscious bias,0,0,,0
+94,Unconscious bias,0,0,,0
+95,Unconscious bias,0,0,,0
+96,Unconscious bias,0,0,,0
+97,Unconscious bias,1,1,,1
+98,Unconscious bias,1,1,,1
+99,Unconscious bias,0,0,,0
+100,Unconscious bias,0,0,,0
+101,Unconscious bias,0,0,,0
+102,Unconscious bias,0,0,,0
+103,Unconscious bias,0,0,,0
+104,Unconscious bias,0,0,,0
+105,Unconscious bias,0,0,,0
+106,Unconscious bias,0,0,,0
+107,Unconscious bias,0,0,,0
+108,Unconscious bias,0,0,,0
+109,Unconscious bias,1,1,,1
+110,Unconscious bias,0,0,,0
+111,Unconscious bias,0,0,,0
+112,Unconscious bias,0,0,,0
+113,Unconscious bias,0,0,,0
+114,Unconscious bias,0,0,,0
+115,Unconscious bias,0,0,,0
+116,Unconscious bias,0,0,,0
+117,Unconscious bias,0,0,,0
+118,Unconscious bias,1,1,,1
+119,Unconscious bias,0,0,,0
+120,Unconscious bias,0,0,,0
+121,Unconscious bias,0,0,,0
+122,Unconscious bias,0,0,,0
+123,Unconscious bias,0,0,,0
+124,Unconscious bias,0,0,,0
+125,Unconscious bias,0,0,,0
+126,Unconscious bias,0,0,,0
+127,Unconscious bias,0,0,,0
+128,Unconscious bias,0,0,,0
+129,Unconscious bias,0,0,,0
+130,Unconscious bias,0,0,,0
+131,Unconscious bias,0,0,,0
+132,Unconscious bias,0,0,,0
+133,Unconscious bias,0,0,,0
+134,Unconscious bias,1,0,1.0,1
+135,Unconscious bias,0,0,,0
+136,Unconscious bias,0,0,,0
+137,Unconscious bias,0,0,,0
+138,Unconscious bias,0,0,,0
+139,Unconscious bias,0,0,,0
+140,Unconscious bias,0,0,,0
+141,Unconscious bias,0,0,,0
+142,Unconscious bias,0,0,,0
+143,Unconscious bias,0,0,,0
+144,Unconscious bias,0,0,,0
+145,Unconscious bias,0,0,,0
+146,Unconscious bias,0,0,,0
+147,Unconscious bias,0,0,,0
+148,Unconscious bias,0,0,,0
+149,Unconscious bias,0,0,,0
+150,Unconscious bias,0,0,,0
+151,Unconscious bias,0,0,,0
+152,Unconscious bias,0,0,,0
+153,Unconscious bias,0,0,,0
+154,Unconscious bias,0,0,,0
+155,Unconscious bias,0,0,,0
+156,Unconscious bias,0,0,,0
+157,Unconscious bias,0,0,,0
+158,Unconscious bias,0,1,0.0,0
+159,Unconscious bias,0,0,,0
+160,Unconscious bias,0,0,,0
+161,Unconscious bias,0,0,,0
+162,Unconscious bias,0,0,,0
+163,Unconscious bias,0,0,,0
+164,Unconscious bias,0,0,,0
+165,Unconscious bias,0,0,,0
+166,Unconscious bias,0,0,,0
+167,Unconscious bias,0,0,,0
+168,Unconscious bias,0,0,,0
+169,Unconscious bias,0,0,,0
+170,Unconscious bias,0,0,,0
+171,Unconscious bias,0,0,,0
+172,Unconscious bias,0,0,,0
+173,Unconscious bias,1,0,0.0,0
+174,Unconscious bias,0,0,,0
+175,Unconscious bias,0,0,,0
+176,Unconscious bias,0,0,,0
+177,Unconscious bias,1,1,,1
+178,Unconscious bias,0,0,,0
+179,Unconscious bias,0,0,,0
+180,Unconscious bias,0,0,,0
+181,Unconscious bias,0,0,,0
+182,Unconscious bias,0,0,,0
+183,Unconscious bias,0,0,,0
+184,Unconscious bias,0,0,,0
+185,Unconscious bias,0,0,,0
+186,Unconscious bias,0,0,,0
+187,Unconscious bias,0,0,,0
+188,Unconscious bias,0,0,,0
+189,Unconscious bias,1,0,0.0,0
+190,Unconscious bias,0,0,,0
+191,Unconscious bias,1,1,,1
+192,Unconscious bias,0,0,,0
+193,Unconscious bias,0,0,,0
+194,Unconscious bias,0,0,,0
+195,Unconscious bias,0,0,,0
+196,Unconscious bias,0,0,,0
+197,Unconscious bias,0,0,,0
+198,Unconscious bias,0,0,,0
+199,Unconscious bias,0,0,,0
+200,Unconscious bias,0,0,,0
+201,Unconscious bias,0,0,,0
+202,Unconscious bias,0,0,,0
+203,Unconscious bias,0,0,,0
+204,Unconscious bias,0,0,,0
+205,Unconscious bias,0,0,,0
+206,Unconscious bias,1,1,,1
+207,Unconscious bias,0,0,,0
+208,Unconscious bias,0,0,,0
+209,Unconscious bias,0,0,,0
+210,Unconscious bias,0,0,,0
+211,Unconscious bias,0,0,,0
+212,Unconscious bias,0,0,,0
+213,Unconscious bias,0,0,,0
+214,Unconscious bias,0,0,,0
+215,Unconscious bias,0,0,,0
+216,Unconscious bias,0,0,,0
+217,Unconscious bias,0,0,,0
+218,Unconscious bias,0,0,,0
+219,Unconscious bias,1,1,,1
+220,Unconscious bias,0,0,,0
+221,Unconscious bias,0,0,,0
+222,Unconscious bias,0,0,,0
+223,Unconscious bias,0,0,,0
+224,Unconscious bias,0,0,,0
+225,Unconscious bias,0,0,,0
+226,Unconscious bias,0,0,,0
+227,Unconscious bias,0,0,,0
+228,Unconscious bias,0,0,,0
+229,Unconscious bias,0,0,,0
+230,Unconscious bias,0,0,,0
+231,Unconscious bias,0,0,,0
+232,Unconscious bias,0,0,,0
+233,Unconscious bias,0,0,,0
+234,Unconscious bias,0,0,,0
+235,Unconscious bias,0,0,,0
+236,Unconscious bias,0,0,,0
+237,Unconscious bias,0,0,,0
+238,Unconscious bias,0,0,,0
+239,Unconscious bias,0,0,,0
+240,Unconscious bias,0,0,,0
+241,Unconscious bias,0,0,,0
+242,Unconscious bias,0,0,,0
+243,Unconscious bias,0,0,,0
+244,Unconscious bias,0,0,,0
+245,Unconscious bias,0,0,,0
+246,Unconscious bias,0,0,,0
+247,Unconscious bias,0,0,,0
+248,Unconscious bias,0,0,,0
+249,Unconscious bias,0,0,,0
+250,Unconscious bias,0,0,,0
+251,Unconscious bias,1,1,,1
+252,Unconscious bias,0,0,,0
+253,Unconscious bias,0,0,,0
+254,Unconscious bias,0,0,,0
+255,Unconscious bias,0,0,,0
+256,Unconscious bias,0,0,,0
+257,Unconscious bias,0,0,,0
+258,Unconscious bias,0,0,,0
+259,Unconscious bias,0,0,,0
+260,Unconscious bias,0,0,,0
+261,Unconscious bias,0,0,,0
+262,Unconscious bias,0,0,,0
+263,Unconscious bias,0,0,,0
+264,Unconscious bias,0,0,,0
+265,Unconscious bias,0,0,,0
+266,Unconscious bias,0,0,,0
+267,Unconscious bias,0,0,,0
+268,Unconscious bias,0,0,,0
+269,Unconscious bias,0,0,,0
+270,Unconscious bias,0,0,,0
+271,Unconscious bias,0,0,,0
+272,Unconscious bias,1,1,,1
+273,Unconscious bias,0,0,,0
+274,Unconscious bias,0,0,,0
+275,Unconscious bias,0,0,,0
+276,Unconscious bias,0,0,,0
+277,Unconscious bias,0,0,,0
+278,Unconscious bias,0,0,,0
+279,Unconscious bias,0,0,,0
+280,Unconscious bias,0,0,,0
+281,Unconscious bias,0,0,,0
+282,Unconscious bias,0,0,,0
+283,Unconscious bias,0,0,,0
+284,Unconscious bias,0,0,,0
+285,Unconscious bias,0,0,,0
+286,Unconscious bias,0,0,,0
+287,Unconscious bias,0,0,,0
+288,Unconscious bias,0,0,,0
+289,Unconscious bias,0,0,,0
+290,Unconscious bias,0,0,,0
+291,Unconscious bias,0,0,,0
+292,Unconscious bias,0,0,,0
+293,Unconscious bias,1,1,,1
+294,Unconscious bias,0,0,,0
+295,Unconscious bias,0,0,,0
+296,Unconscious bias,0,0,,0
+297,Unconscious bias,1,1,,1
+298,Unconscious bias,0,0,,0
+299,Unconscious bias,0,0,,0
+300,Unconscious bias,0,0,,0
+301,Unconscious bias,0,0,,0
+302,Unconscious bias,0,0,,0
+303,Unconscious bias,0,0,,0
+304,Unconscious bias,0,0,,0
+305,Unconscious bias,0,0,,0
+306,Unconscious bias,0,0,,0
+307,Unconscious bias,0,0,,0
+308,Unconscious bias,0,0,,0
+309,Unconscious bias,0,0,,0
+310,Unconscious bias,0,0,,0
+1,Disregard for others' time or boundaries,0,0,,0
+2,Disregard for others' time or boundaries,0,0,,0
+3,Disregard for others' time or boundaries,0,0,,0
+4,Disregard for others' time or boundaries,0,0,,0
+5,Disregard for others' time or boundaries,0,0,,0
+6,Disregard for others' time or boundaries,1,1,,1
+7,Disregard for others' time or boundaries,0,0,,0
+8,Disregard for others' time or boundaries,0,0,,0
+9,Disregard for others' time or boundaries,0,0,,0
+10,Disregard for others' time or boundaries,0,0,,0
+11,Disregard for others' time or boundaries,0,0,,0
+12,Disregard for others' time or boundaries,0,0,,0
+13,Disregard for others' time or boundaries,0,0,,0
+14,Disregard for others' time or boundaries,1,1,,1
+15,Disregard for others' time or boundaries,0,0,,0
+16,Disregard for others' time or boundaries,0,0,,0
+17,Disregard for others' time or boundaries,0,0,,0
+18,Disregard for others' time or boundaries,0,0,,0
+19,Disregard for others' time or boundaries,0,0,,0
+20,Disregard for others' time or boundaries,0,0,,0
+21,Disregard for others' time or boundaries,0,0,,0
+22,Disregard for others' time or boundaries,0,0,,0
+23,Disregard for others' time or boundaries,0,0,,0
+24,Disregard for others' time or boundaries,0,0,,0
+25,Disregard for others' time or boundaries,0,0,,0
+26,Disregard for others' time or boundaries,0,0,,0
+27,Disregard for others' time or boundaries,0,0,,0
+28,Disregard for others' time or boundaries,0,0,,0
+29,Disregard for others' time or boundaries,0,0,,0
+30,Disregard for others' time or boundaries,0,0,,0
+31,Disregard for others' time or boundaries,0,0,,0
+32,Disregard for others' time or boundaries,0,0,,0
+33,Disregard for others' time or boundaries,0,0,,0
+34,Disregard for others' time or boundaries,0,0,,0
+35,Disregard for others' time or boundaries,0,0,,0
+36,Disregard for others' time or boundaries,0,0,,0
+37,Disregard for others' time or boundaries,0,0,,0
+38,Disregard for others' time or boundaries,0,0,,0
+39,Disregard for others' time or boundaries,0,0,,0
+40,Disregard for others' time or boundaries,0,0,,0
+41,Disregard for others' time or boundaries,0,0,,0
+42,Disregard for others' time or boundaries,0,0,,0
+43,Disregard for others' time or boundaries,0,0,,0
+44,Disregard for others' time or boundaries,0,0,,0
+45,Disregard for others' time or boundaries,0,0,,0
+46,Disregard for others' time or boundaries,0,1,0.0,0
+47,Disregard for others' time or boundaries,0,0,,0
+48,Disregard for others' time or boundaries,0,0,,0
+49,Disregard for others' time or boundaries,0,0,,0
+50,Disregard for others' time or boundaries,0,0,,0
+51,Disregard for others' time or boundaries,0,0,,0
+52,Disregard for others' time or boundaries,0,0,,0
+53,Disregard for others' time or boundaries,0,0,,0
+54,Disregard for others' time or boundaries,0,0,,0
+55,Disregard for others' time or boundaries,0,0,,0
+56,Disregard for others' time or boundaries,0,0,,0
+57,Disregard for others' time or boundaries,0,0,,0
+58,Disregard for others' time or boundaries,0,0,,0
+59,Disregard for others' time or boundaries,1,1,,1
+60,Disregard for others' time or boundaries,1,0,0.0,0
+61,Disregard for others' time or boundaries,0,0,,0
+62,Disregard for others' time or boundaries,0,0,,0
+63,Disregard for others' time or boundaries,0,0,,0
+64,Disregard for others' time or boundaries,0,0,,0
+65,Disregard for others' time or boundaries,0,0,,0
+66,Disregard for others' time or boundaries,0,0,,0
+67,Disregard for others' time or boundaries,0,0,,0
+68,Disregard for others' time or boundaries,0,1,0.0,0
+69,Disregard for others' time or boundaries,0,0,,0
+70,Disregard for others' time or boundaries,0,0,,0
+71,Disregard for others' time or boundaries,0,0,,0
+72,Disregard for others' time or boundaries,0,0,,0
+73,Disregard for others' time or boundaries,0,0,,0
+74,Disregard for others' time or boundaries,0,0,,0
+75,Disregard for others' time or boundaries,0,0,,0
+76,Disregard for others' time or boundaries,0,0,,0
+77,Disregard for others' time or boundaries,0,0,,0
+78,Disregard for others' time or boundaries,0,0,,0
+79,Disregard for others' time or boundaries,0,0,,0
+80,Disregard for others' time or boundaries,0,0,,0
+81,Disregard for others' time or boundaries,0,0,,0
+82,Disregard for others' time or boundaries,0,0,,0
+83,Disregard for others' time or boundaries,0,0,,0
+84,Disregard for others' time or boundaries,0,0,,0
+85,Disregard for others' time or boundaries,0,0,,0
+86,Disregard for others' time or boundaries,0,0,,0
+87,Disregard for others' time or boundaries,0,0,,0
+88,Disregard for others' time or boundaries,1,1,,1
+89,Disregard for others' time or boundaries,0,0,,0
+90,Disregard for others' time or boundaries,0,0,,0
+91,Disregard for others' time or boundaries,1,1,,1
+92,Disregard for others' time or boundaries,0,0,,0
+93,Disregard for others' time or boundaries,1,1,,1
+94,Disregard for others' time or boundaries,0,0,,0
+95,Disregard for others' time or boundaries,0,0,,0
+96,Disregard for others' time or boundaries,0,0,,0
+97,Disregard for others' time or boundaries,0,0,,0
+98,Disregard for others' time or boundaries,0,0,,0
+99,Disregard for others' time or boundaries,0,0,,0
+100,Disregard for others' time or boundaries,0,0,,0
+101,Disregard for others' time or boundaries,0,0,,0
+102,Disregard for others' time or boundaries,0,0,,0
+103,Disregard for others' time or boundaries,0,0,,0
+104,Disregard for others' time or boundaries,0,0,,0
+105,Disregard for others' time or boundaries,0,0,,0
+106,Disregard for others' time or boundaries,0,0,,0
+107,Disregard for others' time or boundaries,0,0,,0
+108,Disregard for others' time or boundaries,0,0,,0
+109,Disregard for others' time or boundaries,0,0,,0
+110,Disregard for others' time or boundaries,0,0,,0
+111,Disregard for others' time or boundaries,0,0,,0
+112,Disregard for others' time or boundaries,0,0,,0
+113,Disregard for others' time or boundaries,0,0,,0
+114,Disregard for others' time or boundaries,0,0,,0
+115,Disregard for others' time or boundaries,0,0,,0
+116,Disregard for others' time or boundaries,0,0,,0
+117,Disregard for others' time or boundaries,0,0,,0
+118,Disregard for others' time or boundaries,0,0,,0
+119,Disregard for others' time or boundaries,1,1,,1
+120,Disregard for others' time or boundaries,0,0,,0
+121,Disregard for others' time or boundaries,0,0,,0
+122,Disregard for others' time or boundaries,0,0,,0
+123,Disregard for others' time or boundaries,0,0,,0
+124,Disregard for others' time or boundaries,0,0,,0
+125,Disregard for others' time or boundaries,0,0,,0
+126,Disregard for others' time or boundaries,0,0,,0
+127,Disregard for others' time or boundaries,0,0,,0
+128,Disregard for others' time or boundaries,0,0,,0
+129,Disregard for others' time or boundaries,0,0,,0
+130,Disregard for others' time or boundaries,0,0,,0
+131,Disregard for others' time or boundaries,0,0,,0
+132,Disregard for others' time or boundaries,0,0,,0
+133,Disregard for others' time or boundaries,0,0,,0
+134,Disregard for others' time or boundaries,1,1,,1
+135,Disregard for others' time or boundaries,0,0,,0
+136,Disregard for others' time or boundaries,0,0,,0
+137,Disregard for others' time or boundaries,0,0,,0
+138,Disregard for others' time or boundaries,0,0,,0
+139,Disregard for others' time or boundaries,0,0,,0
+140,Disregard for others' time or boundaries,0,0,,0
+141,Disregard for others' time or boundaries,0,0,,0
+142,Disregard for others' time or boundaries,0,0,,0
+143,Disregard for others' time or boundaries,0,0,,0
+144,Disregard for others' time or boundaries,0,0,,0
+145,Disregard for others' time or boundaries,0,0,,0
+146,Disregard for others' time or boundaries,0,0,,0
+147,Disregard for others' time or boundaries,0,0,,0
+148,Disregard for others' time or boundaries,0,0,,0
+149,Disregard for others' time or boundaries,0,0,,0
+150,Disregard for others' time or boundaries,0,0,,0
+151,Disregard for others' time or boundaries,0,0,,0
+152,Disregard for others' time or boundaries,0,0,,0
+153,Disregard for others' time or boundaries,0,0,,0
+154,Disregard for others' time or boundaries,0,0,,0
+155,Disregard for others' time or boundaries,0,0,,0
+156,Disregard for others' time or boundaries,0,0,,0
+157,Disregard for others' time or boundaries,0,0,,0
+158,Disregard for others' time or boundaries,0,0,,0
+159,Disregard for others' time or boundaries,0,0,,0
+160,Disregard for others' time or boundaries,0,0,,0
+161,Disregard for others' time or boundaries,0,0,,0
+162,Disregard for others' time or boundaries,0,0,,0
+163,Disregard for others' time or boundaries,0,0,,0
+164,Disregard for others' time or boundaries,0,1,0.0,0
+165,Disregard for others' time or boundaries,0,0,,0
+166,Disregard for others' time or boundaries,0,0,,0
+167,Disregard for others' time or boundaries,0,0,,0
+168,Disregard for others' time or boundaries,0,0,,0
+169,Disregard for others' time or boundaries,0,0,,0
+170,Disregard for others' time or boundaries,0,0,,0
+171,Disregard for others' time or boundaries,0,1,0.0,0
+172,Disregard for others' time or boundaries,0,0,,0
+173,Disregard for others' time or boundaries,0,0,,0
+174,Disregard for others' time or boundaries,0,0,,0
+175,Disregard for others' time or boundaries,0,0,,0
+176,Disregard for others' time or boundaries,0,0,,0
+177,Disregard for others' time or boundaries,0,0,,0
+178,Disregard for others' time or boundaries,1,0,0.0,0
+179,Disregard for others' time or boundaries,0,0,,0
+180,Disregard for others' time or boundaries,0,0,,0
+181,Disregard for others' time or boundaries,0,0,,0
+182,Disregard for others' time or boundaries,1,1,,1
+183,Disregard for others' time or boundaries,0,0,,0
+184,Disregard for others' time or boundaries,0,0,,0
+185,Disregard for others' time or boundaries,0,0,,0
+186,Disregard for others' time or boundaries,0,0,,0
+187,Disregard for others' time or boundaries,0,0,,0
+188,Disregard for others' time or boundaries,1,0,0.0,0
+189,Disregard for others' time or boundaries,0,0,,0
+190,Disregard for others' time or boundaries,1,1,,1
+191,Disregard for others' time or boundaries,0,0,,0
+192,Disregard for others' time or boundaries,0,0,,0
+193,Disregard for others' time or boundaries,0,0,,0
+194,Disregard for others' time or boundaries,0,0,,0
+195,Disregard for others' time or boundaries,0,0,,0
+196,Disregard for others' time or boundaries,0,0,,0
+197,Disregard for others' time or boundaries,0,0,,0
+198,Disregard for others' time or boundaries,0,0,,0
+199,Disregard for others' time or boundaries,0,0,,0
+200,Disregard for others' time or boundaries,0,0,,0
+201,Disregard for others' time or boundaries,0,0,,0
+202,Disregard for others' time or boundaries,0,0,,0
+203,Disregard for others' time or boundaries,1,1,,1
+204,Disregard for others' time or boundaries,0,0,,0
+205,Disregard for others' time or boundaries,0,0,,0
+206,Disregard for others' time or boundaries,0,0,,0
+207,Disregard for others' time or boundaries,0,0,,0
+208,Disregard for others' time or boundaries,0,0,,0
+209,Disregard for others' time or boundaries,0,0,,0
+210,Disregard for others' time or boundaries,0,0,,0
+211,Disregard for others' time or boundaries,0,0,,0
+212,Disregard for others' time or boundaries,0,0,,0
+213,Disregard for others' time or boundaries,0,0,,0
+214,Disregard for others' time or boundaries,0,0,,0
+215,Disregard for others' time or boundaries,0,0,,0
+216,Disregard for others' time or boundaries,0,0,,0
+217,Disregard for others' time or boundaries,0,0,,0
+218,Disregard for others' time or boundaries,0,0,,0
+219,Disregard for others' time or boundaries,0,0,,0
+220,Disregard for others' time or boundaries,0,0,,0
+221,Disregard for others' time or boundaries,0,0,,0
+222,Disregard for others' time or boundaries,0,0,,0
+223,Disregard for others' time or boundaries,0,0,,0
+224,Disregard for others' time or boundaries,0,0,,0
+225,Disregard for others' time or boundaries,0,0,,0
+226,Disregard for others' time or boundaries,1,1,,1
+227,Disregard for others' time or boundaries,0,0,,0
+228,Disregard for others' time or boundaries,0,0,,0
+229,Disregard for others' time or boundaries,0,0,,0
+230,Disregard for others' time or boundaries,0,0,,0
+231,Disregard for others' time or boundaries,0,0,,0
+232,Disregard for others' time or boundaries,0,0,,0
+233,Disregard for others' time or boundaries,0,0,,0
+234,Disregard for others' time or boundaries,0,0,,0
+235,Disregard for others' time or boundaries,0,0,,0
+236,Disregard for others' time or boundaries,1,0,0.0,0
+237,Disregard for others' time or boundaries,1,1,,1
+238,Disregard for others' time or boundaries,0,0,,0
+239,Disregard for others' time or boundaries,0,0,,0
+240,Disregard for others' time or boundaries,0,0,,0
+241,Disregard for others' time or boundaries,0,0,,0
+242,Disregard for others' time or boundaries,0,0,,0
+243,Disregard for others' time or boundaries,0,0,,0
+244,Disregard for others' time or boundaries,0,0,,0
+245,Disregard for others' time or boundaries,0,0,,0
+246,Disregard for others' time or boundaries,0,0,,0
+247,Disregard for others' time or boundaries,0,0,,0
+248,Disregard for others' time or boundaries,0,0,,0
+249,Disregard for others' time or boundaries,0,0,,0
+250,Disregard for others' time or boundaries,0,0,,0
+251,Disregard for others' time or boundaries,0,0,,0
+252,Disregard for others' time or boundaries,0,0,,0
+253,Disregard for others' time or boundaries,0,0,,0
+254,Disregard for others' time or boundaries,0,0,,0
+255,Disregard for others' time or boundaries,0,0,,0
+256,Disregard for others' time or boundaries,0,0,,0
+257,Disregard for others' time or boundaries,0,0,,0
+258,Disregard for others' time or boundaries,0,0,,0
+259,Disregard for others' time or boundaries,0,0,,0
+260,Disregard for others' time or boundaries,0,0,,0
+261,Disregard for others' time or boundaries,0,0,,0
+262,Disregard for others' time or boundaries,0,0,,0
+263,Disregard for others' time or boundaries,0,0,,0
+264,Disregard for others' time or boundaries,0,0,,0
+265,Disregard for others' time or boundaries,0,0,,0
+266,Disregard for others' time or boundaries,0,0,,0
+267,Disregard for others' time or boundaries,0,0,,0
+268,Disregard for others' time or boundaries,0,0,,0
+269,Disregard for others' time or boundaries,0,0,,0
+270,Disregard for others' time or boundaries,0,0,,0
+271,Disregard for others' time or boundaries,0,0,,0
+272,Disregard for others' time or boundaries,0,0,,0
+273,Disregard for others' time or boundaries,0,0,,0
+274,Disregard for others' time or boundaries,0,0,,0
+275,Disregard for others' time or boundaries,0,0,,0
+276,Disregard for others' time or boundaries,0,0,,0
+277,Disregard for others' time or boundaries,0,0,,0
+278,Disregard for others' time or boundaries,0,0,,0
+279,Disregard for others' time or boundaries,0,0,,0
+280,Disregard for others' time or boundaries,0,0,,0
+281,Disregard for others' time or boundaries,1,1,,1
+282,Disregard for others' time or boundaries,0,0,,0
+283,Disregard for others' time or boundaries,0,0,,0
+284,Disregard for others' time or boundaries,0,0,,0
+285,Disregard for others' time or boundaries,0,0,,0
+286,Disregard for others' time or boundaries,0,0,,0
+287,Disregard for others' time or boundaries,0,0,,0
+288,Disregard for others' time or boundaries,1,0,0.0,0
+289,Disregard for others' time or boundaries,0,0,,0
+290,Disregard for others' time or boundaries,0,0,,0
+291,Disregard for others' time or boundaries,0,0,,0
+292,Disregard for others' time or boundaries,0,0,,0
+293,Disregard for others' time or boundaries,0,0,,0
+294,Disregard for others' time or boundaries,0,0,,0
+295,Disregard for others' time or boundaries,0,0,,0
+296,Disregard for others' time or boundaries,0,0,,0
+297,Disregard for others' time or boundaries,0,0,,0
+298,Disregard for others' time or boundaries,0,0,,0
+299,Disregard for others' time or boundaries,0,0,,0
+300,Disregard for others' time or boundaries,0,0,,0
+301,Disregard for others' time or boundaries,0,0,,0
+302,Disregard for others' time or boundaries,0,0,,0
+303,Disregard for others' time or boundaries,0,0,,0
+304,Disregard for others' time or boundaries,0,0,,0
+305,Disregard for others' time or boundaries,0,0,,0
+306,Disregard for others' time or boundaries,0,0,,0
+307,Disregard for others' time or boundaries,0,0,,0
+308,Disregard for others' time or boundaries,0,0,,0
+309,Disregard for others' time or boundaries,0,0,,0
+310,Disregard for others' time or boundaries,0,0,,0
+1,Threats or intimidation,0,0,,0
+2,Threats or intimidation,0,0,,0
+3,Threats or intimidation,1,1,,1
+4,Threats or intimidation,0,0,,0
+5,Threats or intimidation,0,0,,0
+6,Threats or intimidation,0,0,,0
+7,Threats or intimidation,0,0,,0
+8,Threats or intimidation,0,0,,0
+9,Threats or intimidation,0,0,,0
+10,Threats or intimidation,0,0,,0
+11,Threats or intimidation,0,0,,0
+12,Threats or intimidation,0,0,,0
+13,Threats or intimidation,0,0,,0
+14,Threats or intimidation,1,1,,1
+15,Threats or intimidation,0,0,,0
+16,Threats or intimidation,0,0,,0
+17,Threats or intimidation,0,0,,0
+18,Threats or intimidation,0,0,,0
+19,Threats or intimidation,0,0,,0
+20,Threats or intimidation,0,0,,0
+21,Threats or intimidation,0,0,,0
+22,Threats or intimidation,0,0,,0
+23,Threats or intimidation,0,0,,0
+24,Threats or intimidation,0,0,,0
+25,Threats or intimidation,0,0,,0
+26,Threats or intimidation,0,0,,0
+27,Threats or intimidation,0,0,,0
+28,Threats or intimidation,0,0,,0
+29,Threats or intimidation,0,0,,0
+30,Threats or intimidation,0,0,,0
+31,Threats or intimidation,0,0,,0
+32,Threats or intimidation,0,0,,0
+33,Threats or intimidation,0,0,,0
+34,Threats or intimidation,0,0,,0
+35,Threats or intimidation,0,0,,0
+36,Threats or intimidation,0,0,,0
+37,Threats or intimidation,0,0,,0
+38,Threats or intimidation,0,0,,0
+39,Threats or intimidation,0,0,,0
+40,Threats or intimidation,0,0,,0
+41,Threats or intimidation,0,0,,0
+42,Threats or intimidation,0,0,,0
+43,Threats or intimidation,0,0,,0
+44,Threats or intimidation,0,0,,0
+45,Threats or intimidation,0,0,,0
+46,Threats or intimidation,0,0,,0
+47,Threats or intimidation,0,0,,0
+48,Threats or intimidation,0,0,,0
+49,Threats or intimidation,0,0,,0
+50,Threats or intimidation,0,0,,0
+51,Threats or intimidation,0,0,,0
+52,Threats or intimidation,0,0,,0
+53,Threats or intimidation,0,0,,0
+54,Threats or intimidation,0,0,,0
+55,Threats or intimidation,0,0,,0
+56,Threats or intimidation,0,0,,0
+57,Threats or intimidation,0,0,,0
+58,Threats or intimidation,0,0,,0
+59,Threats or intimidation,0,0,,0
+60,Threats or intimidation,0,0,,0
+61,Threats or intimidation,0,0,,0
+62,Threats or intimidation,0,0,,0
+63,Threats or intimidation,0,0,,0
+64,Threats or intimidation,0,0,,0
+65,Threats or intimidation,0,0,,0
+66,Threats or intimidation,0,0,,0
+67,Threats or intimidation,0,0,,0
+68,Threats or intimidation,0,0,,0
+69,Threats or intimidation,0,0,,0
+70,Threats or intimidation,0,0,,0
+71,Threats or intimidation,0,0,,0
+72,Threats or intimidation,0,0,,0
+73,Threats or intimidation,0,0,,0
+74,Threats or intimidation,0,0,,0
+75,Threats or intimidation,0,0,,0
+76,Threats or intimidation,0,0,,0
+77,Threats or intimidation,0,0,,0
+78,Threats or intimidation,0,0,,0
+79,Threats or intimidation,0,0,,0
+80,Threats or intimidation,0,0,,0
+81,Threats or intimidation,0,0,,0
+82,Threats or intimidation,0,0,,0
+83,Threats or intimidation,0,0,,0
+84,Threats or intimidation,0,0,,0
+85,Threats or intimidation,0,0,,0
+86,Threats or intimidation,0,0,,0
+87,Threats or intimidation,0,0,,0
+88,Threats or intimidation,0,0,,0
+89,Threats or intimidation,0,0,,0
+90,Threats or intimidation,0,0,,0
+91,Threats or intimidation,0,0,,0
+92,Threats or intimidation,0,0,,0
+93,Threats or intimidation,0,0,,0
+94,Threats or intimidation,0,0,,0
+95,Threats or intimidation,0,0,,0
+96,Threats or intimidation,0,0,,0
+97,Threats or intimidation,0,0,,0
+98,Threats or intimidation,0,0,,0
+99,Threats or intimidation,0,0,,0
+100,Threats or intimidation,0,0,,0
+101,Threats or intimidation,0,0,,0
+102,Threats or intimidation,0,0,,0
+103,Threats or intimidation,0,0,,0
+104,Threats or intimidation,0,0,,0
+105,Threats or intimidation,0,0,,0
+106,Threats or intimidation,0,0,,0
+107,Threats or intimidation,0,0,,0
+108,Threats or intimidation,0,0,,0
+109,Threats or intimidation,0,0,,0
+110,Threats or intimidation,0,0,,0
+111,Threats or intimidation,0,0,,0
+112,Threats or intimidation,0,0,,0
+113,Threats or intimidation,0,0,,0
+114,Threats or intimidation,0,0,,0
+115,Threats or intimidation,0,0,,0
+116,Threats or intimidation,0,0,,0
+117,Threats or intimidation,0,0,,0
+118,Threats or intimidation,0,0,,0
+119,Threats or intimidation,0,0,,0
+120,Threats or intimidation,0,0,,0
+121,Threats or intimidation,0,0,,0
+122,Threats or intimidation,0,0,,0
+123,Threats or intimidation,0,0,,0
+124,Threats or intimidation,0,0,,0
+125,Threats or intimidation,0,0,,0
+126,Threats or intimidation,0,0,,0
+127,Threats or intimidation,0,0,,0
+128,Threats or intimidation,0,0,,0
+129,Threats or intimidation,0,0,,0
+130,Threats or intimidation,0,0,,0
+131,Threats or intimidation,0,0,,0
+132,Threats or intimidation,0,0,,0
+133,Threats or intimidation,0,0,,0
+134,Threats or intimidation,0,0,,0
+135,Threats or intimidation,0,0,,0
+136,Threats or intimidation,0,0,,0
+137,Threats or intimidation,0,0,,0
+138,Threats or intimidation,0,0,,0
+139,Threats or intimidation,0,0,,0
+140,Threats or intimidation,0,0,,0
+141,Threats or intimidation,0,0,,0
+142,Threats or intimidation,0,0,,0
+143,Threats or intimidation,0,0,,0
+144,Threats or intimidation,0,0,,0
+145,Threats or intimidation,0,0,,0
+146,Threats or intimidation,0,0,,0
+147,Threats or intimidation,0,0,,0
+148,Threats or intimidation,0,0,,0
+149,Threats or intimidation,0,0,,0
+150,Threats or intimidation,0,0,,0
+151,Threats or intimidation,0,0,,0
+152,Threats or intimidation,0,0,,0
+153,Threats or intimidation,0,0,,0
+154,Threats or intimidation,0,0,,0
+155,Threats or intimidation,0,0,,0
+156,Threats or intimidation,0,0,,0
+157,Threats or intimidation,0,0,,0
+158,Threats or intimidation,0,0,,0
+159,Threats or intimidation,0,0,,0
+160,Threats or intimidation,0,0,,0
+161,Threats or intimidation,0,0,,0
+162,Threats or intimidation,0,0,,0
+163,Threats or intimidation,0,0,,0
+164,Threats or intimidation,0,0,,0
+165,Threats or intimidation,0,0,,0
+166,Threats or intimidation,0,0,,0
+167,Threats or intimidation,0,0,,0
+168,Threats or intimidation,0,0,,0
+169,Threats or intimidation,0,0,,0
+170,Threats or intimidation,0,0,,0
+171,Threats or intimidation,0,0,,0
+172,Threats or intimidation,0,0,,0
+173,Threats or intimidation,0,0,,0
+174,Threats or intimidation,0,0,,0
+175,Threats or intimidation,0,0,,0
+176,Threats or intimidation,0,0,,0
+177,Threats or intimidation,0,0,,0
+178,Threats or intimidation,0,0,,0
+179,Threats or intimidation,0,0,,0
+180,Threats or intimidation,0,0,,0
+181,Threats or intimidation,0,0,,0
+182,Threats or intimidation,0,0,,0
+183,Threats or intimidation,0,0,,0
+184,Threats or intimidation,0,0,,0
+185,Threats or intimidation,0,0,,0
+186,Threats or intimidation,0,0,,0
+187,Threats or intimidation,0,0,,0
+188,Threats or intimidation,0,0,,0
+189,Threats or intimidation,0,0,,0
+190,Threats or intimidation,0,0,,0
+191,Threats or intimidation,0,0,,0
+192,Threats or intimidation,0,0,,0
+193,Threats or intimidation,0,0,,0
+194,Threats or intimidation,0,0,,0
+195,Threats or intimidation,0,0,,0
+196,Threats or intimidation,0,0,,0
+197,Threats or intimidation,0,0,,0
+198,Threats or intimidation,0,0,,0
+199,Threats or intimidation,0,0,,0
+200,Threats or intimidation,0,0,,0
+201,Threats or intimidation,0,0,,0
+202,Threats or intimidation,0,0,,0
+203,Threats or intimidation,0,0,,0
+204,Threats or intimidation,0,0,,0
+205,Threats or intimidation,0,0,,0
+206,Threats or intimidation,0,0,,0
+207,Threats or intimidation,0,0,,0
+208,Threats or intimidation,0,0,,0
+209,Threats or intimidation,0,0,,0
+210,Threats or intimidation,0,0,,0
+211,Threats or intimidation,0,0,,0
+212,Threats or intimidation,0,0,,0
+213,Threats or intimidation,0,0,,0
+214,Threats or intimidation,0,0,,0
+215,Threats or intimidation,0,0,,0
+216,Threats or intimidation,0,0,,0
+217,Threats or intimidation,0,0,,0
+218,Threats or intimidation,0,0,,0
+219,Threats or intimidation,0,0,,0
+220,Threats or intimidation,0,0,,0
+221,Threats or intimidation,0,0,,0
+222,Threats or intimidation,0,0,,0
+223,Threats or intimidation,0,0,,0
+224,Threats or intimidation,0,0,,0
+225,Threats or intimidation,0,0,,0
+226,Threats or intimidation,0,0,,0
+227,Threats or intimidation,0,0,,0
+228,Threats or intimidation,0,0,,0
+229,Threats or intimidation,0,0,,0
+230,Threats or intimidation,0,0,,0
+231,Threats or intimidation,0,0,,0
+232,Threats or intimidation,0,0,,0
+233,Threats or intimidation,0,0,,0
+234,Threats or intimidation,0,0,,0
+235,Threats or intimidation,0,0,,0
+236,Threats or intimidation,0,0,,0
+237,Threats or intimidation,0,0,,0
+238,Threats or intimidation,0,0,,0
+239,Threats or intimidation,0,0,,0
+240,Threats or intimidation,0,0,,0
+241,Threats or intimidation,0,0,,0
+242,Threats or intimidation,0,0,,0
+243,Threats or intimidation,0,0,,0
+244,Threats or intimidation,1,1,,1
+245,Threats or intimidation,1,1,,1
+246,Threats or intimidation,0,0,,0
+247,Threats or intimidation,0,0,,0
+248,Threats or intimidation,0,0,,0
+249,Threats or intimidation,0,0,,0
+250,Threats or intimidation,0,0,,0
+251,Threats or intimidation,0,0,,0
+252,Threats or intimidation,0,0,,0
+253,Threats or intimidation,0,0,,0
+254,Threats or intimidation,0,0,,0
+255,Threats or intimidation,0,0,,0
+256,Threats or intimidation,0,0,,0
+257,Threats or intimidation,0,0,,0
+258,Threats or intimidation,0,0,,0
+259,Threats or intimidation,0,0,,0
+260,Threats or intimidation,0,0,,0
+261,Threats or intimidation,0,0,,0
+262,Threats or intimidation,0,0,,0
+263,Threats or intimidation,0,0,,0
+264,Threats or intimidation,0,0,,0
+265,Threats or intimidation,0,0,,0
+266,Threats or intimidation,0,0,,0
+267,Threats or intimidation,0,0,,0
+268,Threats or intimidation,0,0,,0
+269,Threats or intimidation,0,0,,0
+270,Threats or intimidation,0,0,,0
+271,Threats or intimidation,0,0,,0
+272,Threats or intimidation,0,0,,0
+273,Threats or intimidation,0,0,,0
+274,Threats or intimidation,0,0,,0
+275,Threats or intimidation,0,0,,0
+276,Threats or intimidation,0,0,,0
+277,Threats or intimidation,0,0,,0
+278,Threats or intimidation,0,0,,0
+279,Threats or intimidation,0,0,,0
+280,Threats or intimidation,0,0,,0
+281,Threats or intimidation,0,0,,0
+282,Threats or intimidation,0,0,,0
+283,Threats or intimidation,0,0,,0
+284,Threats or intimidation,0,0,,0
+285,Threats or intimidation,0,0,,0
+286,Threats or intimidation,0,0,,0
+287,Threats or intimidation,0,0,,0
+288,Threats or intimidation,0,0,,0
+289,Threats or intimidation,0,0,,0
+290,Threats or intimidation,0,0,,0
+291,Threats or intimidation,0,0,,0
+292,Threats or intimidation,0,0,,0
+293,Threats or intimidation,0,0,,0
+294,Threats or intimidation,0,0,,0
+295,Threats or intimidation,0,0,,0
+296,Threats or intimidation,0,0,,0
+297,Threats or intimidation,0,0,,0
+298,Threats or intimidation,0,0,,0
+299,Threats or intimidation,0,0,,0
+300,Threats or intimidation,0,0,,0
+301,Threats or intimidation,0,0,,0
+302,Threats or intimidation,0,0,,0
+303,Threats or intimidation,0,0,,0
+304,Threats or intimidation,0,0,,0
+305,Threats or intimidation,0,0,,0
+306,Threats or intimidation,0,0,,0
+307,Threats or intimidation,0,0,,0
+308,Threats or intimidation,0,0,,0
+309,Threats or intimidation,0,0,,0
+310,Threats or intimidation,0,0,,0

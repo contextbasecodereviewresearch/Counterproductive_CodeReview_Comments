@@ -107,16 +107,16 @@ To evaluate initial crowd consistency (before majority vote and author adjudicat
 
 | Trait                                      | Krippendorff's alpha | Interpretation      |
 |--------------------------------------------|----------------------|---------------------|
-| Lack of specificity                        | 0.59                 | Moderate            |
-| Discouragement without guidance            | 0.54                 | Moderate            |
-| Mockery                                    | 0.67                 | Substantial         |
-| Dismissive attitude                        | 0.51                 | Moderate            |
-| Personal attacks                           | 0.63                 | Substantial         |
-| Excessive control                          | 0.48                 | Fair–moderate       |
-| Unconscious bias                           | 0.50                 | Moderate            |
-| Disregard for other time or boundaries     | 0.44                 | Fair                |
-| Threats or intimidation                    | 0.69                 | Substantial         |
-| **Average across 9 traits**                | **0.55**             | **Moderate**        |
+| Lack of specificity                        | 0.72                 | Moderate            |
+| Discouragement without guidance            | 0.57                 | Moderate            |
+| Mockery                                    | 0.62                 | Substantial         |
+| Dismissive attitude                        | 0.40                 | Moderate            |
+| Personal attacks                           | 0.55                 | Substantial         |
+| Excessive control                          | 0.28                 | Fair–moderate       |
+| Unconscious bias                           | 0.63                 | Moderate            |
+| Disregard for other time or boundaries     | 0.4504                 | Fair                |
+| Threats or intimidation                    | 1.00                 | Substantial         |
+| **Average across 9 traits**                | **0.58**             | **Moderate**        |
 
 **Interpretation**:
 - 0.41–0.60: Moderate agreement
