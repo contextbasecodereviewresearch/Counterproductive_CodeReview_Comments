@@ -673,3 +673,12 @@ Your ordering is a little ugly. BUG= and TEST= should be above all the tags an t
 "you're right, it looked clumsy when I did it the other way but I think it's the right way. I'll fix it.",0,0,1,1,0,0,0,1,0,0,1,1,0
 "Yuck, cruft, will remove tomorrow. Wonder why it didn't warn me...",0,0,0,1,0,0,0,0,0,0,1,1,0
 "Yuck. Use %.70s, which will do this more gracefully",0,0,0,0,0,0,0,0,0,1,1,0,0
+pid,0,0,0,1,0,0,0,0,0,0,0,1,1
+same,0,0,0,1,0,0,0,0,0,0,0,1,1
+gross...,0,0,0,1,0,0,0,0,0,0,0,1,1
+this override seems useless,0,0,0,1,0,0,0,0,0,0,0,1,1
+base_dir is useless,0,0,0,1,0,0,0,0,0,0,0,1,1
+Redundant. bt_core?,0,0,0,1,0,0,0,0,0,0,0,1,1
+kill and restart,0,0,0,1,0,0,0,0,0,0,0,1,1
+Remove daterangepicker,0,0,0,1,0,0,0,0,0,0,0,1,1
+Kill this too,0,0,0,1,0,0,0,0,0,0,0,1,1
